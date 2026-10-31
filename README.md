@@ -40,7 +40,7 @@ Organize icons into multiple pages directly on the **native Windows 11 desktop**
 
 ![C sharp](https://img.shields.io/badge/C%23-.NET-6246EA?style=flat-square) ![WPF](https://img.shields.io/badge/WPF-Windows-0D8AE6?style=flat-square)
 
-**[Source & releases →](https://github.com/AdamAbuToamy/DeskPages/releases)**
+**[▶ Watch existing concept video](https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d)** · **[Source & releases →](https://github.com/AdamAbuToamy/DeskPages/releases)**
 
 </td><td width="50%" valign="top">
 
@@ -72,11 +72,11 @@ Organize links, checkpoints, tasks, courses and weekly schedules. Includes offli
 
 | Project | What you can explore right now |
 | :-- | :-- |
-| **DeskPages** | [Authentic settings screenshot](https://github.com/AdamAbuToamy/DeskPages/blob/main/media/DeskPages-settings-0.8.12-en.png) · [Releases](https://github.com/AdamAbuToamy/DeskPages/releases) |
-| **WILO** | [Try the deployed application](https://where-i-left-off.web.app/) |
+| **DeskPages** | **[▶ Watch the existing concept promo](https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d)** · [Actual settings screenshot](https://github.com/AdamAbuToamy/DeskPages/blob/main/media/DeskPages-settings-0.8.12-en.png) · [Releases](https://github.com/AdamAbuToamy/DeskPages/releases) |
+| **WILO** | [Try the deployed application](https://where-i-left-off.web.app/) · [Existing English promo (concept media)](https://github.com/AdamAbuToamy/where-i-left-off/blob/main/docs/media/videos/promo-en.mp4) · [Arabic promo](https://github.com/AdamAbuToamy/where-i-left-off/blob/main/docs/media/videos/promo-ar.mp4) |
 | **STOMP Emergency** | [Build, run and test instructions](https://github.com/AdamAbuToamy/stomp-emergency) |
 
-<sub>Videos will be embedded here only after real recordings are available. GitHub README supports linked video previews and GIFs, but is not a full interactive website.</sub>
+<sub>DeskPages promotional concept video comes from its project README. WILO promos are illustrations, not real app captures. A genuine simulator/browser walkthrough has not been recorded yet.</sub>
 
 ---
 
