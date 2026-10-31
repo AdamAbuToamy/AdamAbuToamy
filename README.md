@@ -40,7 +40,11 @@ Organize icons into multiple pages directly on the **native Windows 11 desktop**
 
 ![C sharp](https://img.shields.io/badge/C%23-.NET-6246EA?style=flat-square) ![WPF](https://img.shields.io/badge/WPF-Windows-0D8AE6?style=flat-square)
 
-**[▶ Watch existing concept video](https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d)** · **[Source & releases →](https://github.com/AdamAbuToamy/DeskPages/releases)**
+**Concept promotional video:**
+
+https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d
+
+**[Source & releases →](https://github.com/AdamAbuToamy/DeskPages/releases)**
 
 </td><td width="50%" valign="top">
 
@@ -59,6 +63,30 @@ Organize links, checkpoints, tasks, courses and weekly schedules. Includes offli
 </td></tr>
 </table>
 
+### 🤖 [Robot Arm Studio](https://github.com/AdamAbuToamy/RobotArmStudio)
+
+<p align="center"><img src="https://raw.githubusercontent.com/AdamAbuToamy/RobotArmStudio/main/docs/media/robot-and-controller.jpg" width="76%" alt="Actual assembled robotic arm and control interface"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/AdamAbuToamy/RobotArmStudio/main/docs/media/robot-control.gif" width="76%" alt="Actual robot arm control motion recording"></p>
+
+**A real 3D-printed robot-arm project:** servo integration, controller software, calibration, saved motion sequences and future vision work.
+
+![Robotics](https://img.shields.io/badge/Robotics-Hardware-24B8AD?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32-Controller-E7352A?style=flat-square) ![Status](https://img.shields.io/badge/Status-Work_in_progress-8B5CF6?style=flat-square)
+
+[Real control demo](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/robot-control-demo.mp4) · [Later motion demo](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/robot-motion-demo.mp4) · [Technical documentation](https://github.com/AdamAbuToamy/RobotArmStudio)
+
+### 🚁 [FPV Drone · Build, Diagnose, Repair](https://github.com/AdamAbuToamy/FPV-Drone)
+
+<p align="center"><img src="https://raw.githubusercontent.com/AdamAbuToamy/FPV-Drone/main/docs/media/drone-built.jpg" width="76%" alt="Actual assembled 5-inch FPV drone on the workbench"></p>
+
+A **real 5-inch FPV quadcopter**, documenting physical assembly, wiring, Betaflight configuration, flight experience and component-level fault diagnosis after a hard landing.
+
+![Drone](https://img.shields.io/badge/FPV-5_inch-00A9D5?style=flat-square) ![Hardware](https://img.shields.io/badge/Hardware-Assembly-8B5CF6?style=flat-square) ![Betaflight](https://img.shields.io/badge/Betaflight-Configuration-EE5A34?style=flat-square)
+
+[Bench overview](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/drone-bench-demo.mp4) · [Betaflight orientation check](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/betaflight-orientation-demo.mp4) · [Repair log](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/REPAIR_LOG.md)
+
+---
+
 ### 🔧 Engineering & systems
 
 | Project | What it demonstrates | Stack |
@@ -72,8 +100,10 @@ Organize links, checkpoints, tasks, courses and weekly schedules. Includes offli
 
 | Project | What you can explore right now |
 | :-- | :-- |
-| **DeskPages** | **[▶ Watch the existing concept promo](https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d)** · [Actual settings screenshot](https://github.com/AdamAbuToamy/DeskPages/blob/main/media/DeskPages-settings-0.8.12-en.png) · [Releases](https://github.com/AdamAbuToamy/DeskPages/releases) |
+| **DeskPages** | Inline concept video above · [Actual settings screenshot](https://github.com/AdamAbuToamy/DeskPages/blob/main/media/DeskPages-settings-0.8.12-en.png) · [Releases](https://github.com/AdamAbuToamy/DeskPages/releases) |
 | **WILO** | [Try the deployed application](https://where-i-left-off.web.app/) · [Existing English promo (concept media)](https://github.com/AdamAbuToamy/where-i-left-off/blob/main/docs/media/videos/promo-en.mp4) · [Arabic promo](https://github.com/AdamAbuToamy/where-i-left-off/blob/main/docs/media/videos/promo-ar.mp4) |
+| **Robot Arm Studio** | [Actual motion GIF](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/robot-control.gif) · [Video demonstrations](https://github.com/AdamAbuToamy/RobotArmStudio) |
+| **FPV Drone** | [Workbench video](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/drone-bench-demo.mp4) · [Betaflight test](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/betaflight-orientation-demo.mp4) |
 | **STOMP Emergency** | [Build, run and test instructions](https://github.com/AdamAbuToamy/stomp-emergency) |
 
 <sub>DeskPages promotional concept video comes from its project README. WILO promos are illustrations, not real app captures. A genuine simulator/browser walkthrough has not been recorded yet.</sub>
