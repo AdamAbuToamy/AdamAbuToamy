@@ -1,116 +1,129 @@
-<div align="center">
+<picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.svg"><img src="assets/hero.svg" width="100%" alt="Adam Abu Toamy — Software Engineering Student. Building apps, robotics projects & reliable systems."></picture>
 
-# ADAM ABU TOAMY
+<p align="center">I build practical software and explore the hardware behind it.<br>From a multilingual workspace to network protocols and servo-driven prototypes.</p>
 
-### Software Engineering Student · Product Builder · Robotics Enthusiast
+<p align="center"><a href="https://where-i-left-off.web.app/"><img src="https://img.shields.io/badge/OPEN_WILO-39E8F4?style=for-the-badge" alt="Open WILO"></a> <a href="https://github.com/AdamAbuToamy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-AD8AFF?style=for-the-badge" alt="Explore repositories"></a></p>
 
-**From practical applications to machines you can hold.**
+<picture><source media="(max-width: 600px)" srcset="assets/wilo-section-mobile.svg"><img src="assets/wilo-section.svg" width="100%" alt="02 — Featured project: WILO"></picture>
 
-<img alt="Software Engineering" src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-101C36?style=for-the-badge&labelColor=14B8A6"> <img alt="Projects in progress" src="https://img.shields.io/badge/BUILDING-IN_PUBLIC-7C3AED?style=for-the-badge"> <img alt="Real-world engineering" src="https://img.shields.io/badge/REAL_WORLD-ENGINEERING-2563EB?style=for-the-badge">
+### A workspace that remembers the next step.
 
-[**Featured projects**](#-featured-projects) · [**Hardware lab**](#-hardware-lab) · [**Technical work**](#-systems--software-engineering)
+**[WILO — Where I Left Off](https://github.com/AdamAbuToamy/where-i-left-off)** brings projects, study plans, links, checkpoints and checklists together in Arabic, Hebrew and English. Built with **React · TypeScript · Firebase**.
 
-</div>
+<a href="assets/wilo-showcase.mp4"><img src="assets/wilo-preview.gif" width="100%" alt="WILO film preview with real browser captures of the workspace; open the full 32-second film"></a>
 
----
+**[▶ Watch the new UI film](assets/wilo-showcase.mp4)** · **[Launch WILO ↗](https://where-i-left-off.web.app/)** · **[Explore the source](https://github.com/AdamAbuToamy/where-i-left-off)**
 
-## ✨ Featured projects
+<details>
+<summary><b>Inside the real interface — workspace, cards, sessions & mobile</b></summary>
 
-### 01 / WILO — Where I Left Off
-**Product engineering · Productivity · AI-assisted workflows**
+<p>Captured directly from the live app with fictional demo content. Cropped to keep account details private.</p>
+<img src="assets/wilo-workspace.png" width="100%" alt="Real WILO workspace with Engineering and Study & Planning demo cards">
+<img src="assets/wilo-session.png" width="100%" alt="Real WILO work session showing a saved manual note">
+<p><a href="assets/wilo-create.png">Card creation</a> · <a href="assets/wilo-card.png">Checkpoint & checklist</a> · <a href="assets/wilo-mobile.png">390 px mobile capture</a></p>
 
-A live multilingual workspace for projects, study plans, links, notes, checklists, schedules and team organization. The assistant prepares supported changes for review instead of silently modifying your data.
+</details>
 
-[![Try WILO](https://img.shields.io/badge/TRY_THE_LIVE_APP-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://where-i-left-off.web.app/)
-[![Source](https://img.shields.io/badge/SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdamAbuToamy/where-i-left-off)
+**Engineering focus:** account-scoped persistence, offline edits, explicit conflict handling, and validated review-before-apply assistant proposals.
 
-> **Real interface showcase in preparation.** No synthetic product screens are shown as screenshots.
+<sub>The film demonstrates cards, navigation and work sessions. University and AI execution were excluded: the test account's unverified email blocks access. Voice recognition was not tested. [Capture notes & media provenance](assets/SOURCES.md).</sub>
 
----
+<br>
 
-## 🦾 Hardware lab
+<picture><source media="(max-width: 600px)" srcset="assets/hardware-section-mobile.svg"><img src="assets/hardware-section.svg" width="100%" alt="03 — Robotics & Hardware"></picture>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Robot Arm Studio · From servo commands to physical motion
 
-### 02 / [Robot Arm Studio](https://github.com/AdamAbuToamy/RobotArmStudio)
+<p><img src="assets/robot-arm.jpg" width="45%" alt="Real 3D-printed robot arm and electronics, from the original build recording"> <a href="https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/VID-20261010-WA0009.mp4"><img src="assets/robot-motion.gif" width="45%" alt="Four seconds of actual robot motion from the original recording"></a></p>
 
-<img src="https://raw.githubusercontent.com/AdamAbuToamy/RobotArmStudio/main/docs/media/robot-and-controller.jpg" alt="Robot arm and controller media from the project repository" width="100%">
+**3D-printed arm · ESP32-S3 · PCA9685 · Servo control**
 
-**3D-printed robotic arm** integrating physical servos, ESP32 control, calibration, manual control and saved routines.
+Assembly, electronics integration and a browser controller with manual control, calibration and saved motion sequences. **Work in progress:** mechanical refinement, calibration and physical validation continue. Software capabilities do not establish measured hardware accuracy.
 
-<img src="https://img.shields.io/badge/PROJECT-WORK_IN_PROGRESS-A855F7?style=flat-square">
+[**Controller & build log ↗**](https://github.com/AdamAbuToamy/RobotArmStudio) · [Original motion recording](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/VID-20261010-WA0009.mp4)
 
-</td>
-<td width="50%" valign="top">
+<sub>Mechanical base design purchased from [FABRI_CREATOR on Cults3D](https://cults3d.com/en/3d-model/gadget/brazo-robotico-con-arduino-step-files-robotic-arm-guardar-reproducir-export). Adam's work covers assembly, selected adaptations, electronics and controller integration. [Attribution](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/ATTRIBUTION.md).</sub>
 
-### 03 / [FPV Drone](https://github.com/AdamAbuToamy/FPV-Drone)
+### FPV Drone · Build. Diagnose. Repair.
 
-<img src="https://raw.githubusercontent.com/AdamAbuToamy/FPV-Drone/main/docs/media/drone-built.jpg" alt="FPV drone media from the project repository" width="100%">
+<img src="assets/drone-build.jpg" width="100%" alt="Original FPV build photo showing hands-on wiring and soldering on the quadcopter">
 
-**Five-inch quadcopter** assembled and configured with Betaflight; includes electronics troubleshooting and a documented ESC repair.
+**5-inch quadcopter · Betaflight · Wiring & soldering · ESC diagnosis**
 
-<img src="https://img.shields.io/badge/PROJECT-WORK_IN_PROGRESS-A855F7?style=flat-square">
+A hands-on assembly and repair project: configuration, a hard-landing investigation, motor/ESC fault isolation and a reported MOSFET repair. **Work in progress:** current condition and repeatable flight performance remain to be documented.
 
-</td>
-</tr>
-</table>
+[**Build & repair journal ↗**](https://github.com/AdamAbuToamy/FPV-Drone) · [Original photo gallery](https://github.com/AdamAbuToamy/FPV-Drone#photos) · [Repair log](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/REPAIR_LOG.md)
 
-**Robot arm — movement captured in the project:**
+<sub>Betaflight is third-party firmware. No measured range, flight time or flight-readiness claim is made.</sub>
 
-![Robot control motion from project media](https://raw.githubusercontent.com/AdamAbuToamy/RobotArmStudio/main/docs/media/robot-control.gif)
+<br>
 
-[Robot control video](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/robot-control-demo.mp4) · [Later motion video](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/robot-motion-demo.mp4) · [Drone bench recording](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/drone-bench-demo.mp4) · [Drone orientation check](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/betaflight-orientation-demo.mp4)
+<picture><source media="(max-width: 600px)" srcset="assets/desktop-section-mobile.svg"><img src="assets/desktop-section.svg" width="100%" alt="04 — DeskPages"></picture>
 
----
+### One desktop. Separate spaces.
 
-## 🖥️ Desktop engineering
+**[DeskPages](https://github.com/AdamAbuToamy/DeskPages)** organizes Windows 11 desktop icons into pages while preserving their original file paths. **Alpha · C# · .NET · WinForms · PowerShell**.
 
-### 04 / [DeskPages](https://github.com/AdamAbuToamy/DeskPages)
+<p><a href="https://github.com/AdamAbuToamy/DeskPages"><img src="assets/deskpages-tour.gif" width="64%" alt="Actual DeskPages interactive tour captured with test data under Mono/Xvfb"></a> <a href="https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d"><img src="assets/deskpages-concept.gif" width="26%" alt="Six-second AI-generated DeskPages Concept Promo — not a recording of the app"></a></p>
 
-A native **Windows 11** desktop organizer, built with **C# / .NET / WPF**, that manages icon visibility across multiple desktop pages without changing the original file locations.
+[**Explore DeskPages ↗**](https://github.com/AdamAbuToamy/DeskPages) · [Alpha releases](https://github.com/AdamAbuToamy/DeskPages/releases) · [Full Concept Promo](https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d)
 
-<a href="https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d"><img src="https://raw.githubusercontent.com/AdamAbuToamy/DeskPages/main/media/DeskPages-settings-0.8.12-en.png" width="520" alt="Authentic DeskPages settings capture; click for concept promotional video"></a>
+<sub>Left: actual UI with fixture data under Mono/Xvfb; Windows fonts and borders may differ. Right: **AI-generated Concept Promo**, not evidence of implemented behavior. Physical Windows/touchpad acceptance remains pending in the source documentation.</sub>
 
-**[▶ Watch the project's concept promotional video](https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d)** · [Releases](https://github.com/AdamAbuToamy/DeskPages/releases)
+<br>
 
-<sub>The preview is a documented project capture using fixture data; the promotional concept video is not a verified recording of every current feature.</sub>
+<picture><source media="(max-width: 600px)" srcset="assets/software-section-mobile.svg"><img src="assets/software-section.svg" width="100%" alt="05 — Software Engineering"></picture>
 
----
+### STOMP Emergency · Messaging & concurrency
 
-## ⚙️ Systems & software engineering
+**Java server · Multithreaded C++ client · TCP · Python integration tests**
 
-| Project | Engineering focus | Stack |
-| :-- | :-- | :-- |
-| [STOMP Emergency](https://github.com/AdamAbuToamy/stomp-emergency) | Messaging server, multithreaded TCP client and integration tests. University collaboration with Ammar Mawassi. | Java, C++, TCP |
-| [Kanban Backend](https://github.com/AdamAbuToamy/kanban-backend-csharp) | Layered architecture, domain operations, task validation and backend tests. | C#, .NET |
+An educational emergency-report simulation with thread-per-client and Reactor server modes, channel subscriptions, report summaries and a web incident workflow. Current work includes transport hardening and fault-injection scenarios.
 
----
+[**Inspect the architecture ↗**](https://github.com/AdamAbuToamy/stomp-emergency) · [Test workflows](https://github.com/AdamAbuToamy/stomp-emergency/actions) · [Transport reliability](https://github.com/AdamAbuToamy/stomp-emergency/blob/main/docs/TRANSPORT_RELIABILITY.md)
 
-## 🧩 Technologies & interests
+<sub>Originally a Ben-Gurion University collaboration with **Ammar Mawassi**. An educational project; not an operational emergency service. Test evidence and its limits are recorded in the source repository.</sub>
 
-<div align="center">
+### Kanban Backend · Rules before interfaces
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352A?style=for-the-badge)
-![WPF](https://img.shields.io/badge/WPF-2563EB?style=for-the-badge)
-![Testing](https://img.shields.io/badge/Testing-10B981?style=for-the-badge)
+**C# · .NET · Service / Business layers · Backend tests**
 
-</div>
+A university task-management backend for users, boards, columns and tasks, with state transitions, column limits and input validation.
 
----
+[**Explore the backend ↗**](https://github.com/AdamAbuToamy/kanban-backend-csharp) · [Business layer](https://github.com/AdamAbuToamy/kanban-backend-csharp/tree/main/KanbanApp/Kanban_BackEnd/BusinessLayer)
 
-<div align="center">
+<br>
 
-### Building, testing, improving.
+<picture><source media="(max-width: 600px)" srcset="assets/stack-section-mobile.svg"><img src="assets/stack-section.svg" width="100%" alt="06 — Technology Stack"></picture>
 
-[Explore all repositories](https://github.com/AdamAbuToamy?tab=repositories) · [Try WILO](https://where-i-left-off.web.app/)
+**Languages**<br><img src="assets/stack/typescript.svg" alt="TypeScript"> <img src="assets/stack/javascript.svg" alt="JavaScript"> <img src="assets/stack/c-.svg" alt="C#"> <img src="assets/stack/java.svg" alt="Java"> <img src="assets/stack/c--.svg" alt="C++"> <img src="assets/stack/python.svg" alt="Python"> <img src="assets/stack/powershell.svg" alt="PowerShell">
 
-<sub>Visual media comes from the linked projects. Work-in-progress projects and promotional concepts are labeled accordingly.</sub>
+**Frameworks**<br><img src="assets/stack/react.svg" alt="React"> <img src="assets/stack/-net.svg" alt=".NET"> <img src="assets/stack/winforms.svg" alt="WinForms"> <img src="assets/stack/aiohttp.svg" alt="aiohttp">
 
-</div>
+**Web**<br><img src="assets/stack/html.svg" alt="HTML"> <img src="assets/stack/css.svg" alt="CSS"> <img src="assets/stack/vite.svg" alt="Vite"> <img src="assets/stack/firebase-auth.svg" alt="Firebase Auth"> <img src="assets/stack/firestore.svg" alt="Firestore"> <img src="assets/stack/cloudflare-workers.svg" alt="Cloudflare Workers">
+
+**Systems**<br><img src="assets/stack/tcp.svg" alt="TCP"> <img src="assets/stack/stomp.svg" alt="STOMP"> <img src="assets/stack/reactor---tpc.svg" alt="Reactor / TPC"> <img src="assets/stack/sqlite.svg" alt="SQLite"> <img src="assets/stack/linux---wsl.svg" alt="Linux / WSL">
+
+**Hardware**<br><img src="assets/stack/esp32-s3.svg" alt="ESP32-S3"> <img src="assets/stack/pca9685.svg" alt="PCA9685"> <img src="assets/stack/servo-control.svg" alt="Servo control"> <img src="assets/stack/betaflight.svg" alt="Betaflight">
+
+**Developer Tools**<br><img src="assets/stack/git.svg" alt="Git"> <img src="assets/stack/github-actions.svg" alt="GitHub Actions"> <img src="assets/stack/maven.svg" alt="Maven"> <img src="assets/stack/playwright.svg" alt="Playwright"> <img src="assets/stack/vitest.svg" alt="Vitest">
+
+<sub>Selected from the linked repositories' source and manifests. [Evidence map](assets/SOURCES.md#technology-evidence).</sub>
+
+<br>
+
+<picture><source media="(max-width: 600px)" srcset="assets/building-section-mobile.svg"><img src="assets/building-section.svg" width="100%" alt="07 — Currently Building"></picture>
+
+- **WILO:** refining the live workspace, assistant boundaries and device verification.
+- **Robot Arm Studio:** calibration, smoother movement, mechanical fit and physical validation. Camera/sensor integration remains planned.
+- **FPV Drone:** ongoing tuning, simulator practice and documentation of the current build condition.
+- **DeskPages:** Alpha development; physical Windows and touchpad acceptance remain open.
+- **STOMP Emergency:** transport reliability, shared-state review and input/resource limits.
+
+<br>
+
+<picture><source media="(max-width: 600px)" srcset="assets/contact-section-mobile.svg"><img src="assets/contact-section.svg" width="100%" alt="08 — Contact & Explore"></picture>
+
+<p align="center"><b>Follow the work as it develops.</b><br><br><a href="https://github.com/AdamAbuToamy">GitHub / AdamAbuToamy</a> &nbsp; · &nbsp; <a href="https://github.com/AdamAbuToamy?tab=repositories">All repositories</a> &nbsp; · &nbsp; <a href="https://where-i-left-off.web.app/">Try WILO ↗</a></p>
+
+<p align="center"><sub>Real project media. Clear project status. Credit where it belongs.<br>Profile visuals & captures refreshed November 2026.</sub></p>
