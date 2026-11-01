@@ -1,5 +1,7 @@
 # Profile presentation QA — 1 November 2026
 
+The results below describe the initial publication. The subsequent owner-requested media revision replaces the WILO film with fresh 2× captures, the robot footage with the assembled-arm recording, and the drone still with a real Betaflight preview. Updated sources and encoding details are in SOURCES.md. The original drone-link limitation below was resolved with authenticated downloads; it is not a current blocker.
+
 Checked on the published `showcase/real-engineering-2026-11` branch using the actual GitHub-rendered README before main publication.
 
 - Desktop: 1440×1000 viewport, 838-pixel README content area; all images loaded. Full-page capture and visual review covered hero, WILO, hardware, DeskPages, software, stack, current work and contact.
