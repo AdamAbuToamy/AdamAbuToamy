@@ -30,7 +30,29 @@
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/hardware-section-mobile.svg"><img src="assets/hardware-section.svg" width="100%" alt="02 — Robotics & Hardware"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/postmark-section-mobile.svg"><img src="assets/postmark-section.svg" width="100%" alt="02 — PostMark AI Email Agent"></picture>
+
+### Email organization, with a recovery path.
+
+**[PostMark — AI Email Agent](https://github.com/AdamAbuToamy/PostMark-ai-email-agent)** is a self-hosted email organization project for **Arabic, Hebrew and English**, combining account-aware AI routing, durable background jobs and recoverable automation.
+
+<a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><img src="assets/postmark-cleanup.png" width="100%" alt="Real Postmark Cleanup interface: review controls and mailbox coverage; cropped from the project's published screenshot"></a>
+
+**Python · FastAPI · React · TypeScript · SQLite WAL · Gmail API · Ollama**
+
+- Organizes messages into meaningful categories while keeping document subtype and workflow status separate.
+- Routes inference across cloud providers and local Ollama, respecting provider capabilities and limits.
+- Tracks background sync, retries and recovery, with audit/rollback and permission checks for irreversible actions.
+
+**Work in progress.** Accuracy evaluation, unattended reliability, packaging and security review remain ongoing. The public repository currently contains documentation and real application screenshots; **application source code is not yet published**.
+
+[**Explore PostMark ↗**](https://github.com/AdamAbuToamy/PostMark-ai-email-agent) · [Real interface gallery](https://github.com/AdamAbuToamy/PostMark-ai-email-agent#real-application-screenshots)
+
+<sub>Actual interface capture supplied in the project repository. Preview cropped above message records to avoid displaying email contents. Features and stack follow the project's documentation; no new runtime or accuracy test is claimed.</sub>
+
+<br>
+
+<picture><source media="(max-width: 600px)" srcset="assets/hardware-section-mobile.svg"><img src="assets/hardware-section.svg" width="100%" alt="03 — Robotics & Hardware"></picture>
 
 ### Robot Arm Studio · From servo commands to physical motion
 
@@ -60,7 +82,7 @@ A hands-on assembly and repair project: configuration, a hard-landing investigat
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/desktop-section-mobile.svg"><img src="assets/desktop-section.svg" width="100%" alt="03 — DeskPages"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/desktop-section-mobile.svg"><img src="assets/desktop-section.svg" width="100%" alt="04 — DeskPages"></picture>
 
 ### One desktop. Separate spaces.
 
@@ -74,7 +96,7 @@ A hands-on assembly and repair project: configuration, a hard-landing investigat
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/software-section-mobile.svg"><img src="assets/software-section.svg" width="100%" alt="04 — Software Engineering"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/software-section-mobile.svg"><img src="assets/software-section.svg" width="100%" alt="05 — Software Engineering"></picture>
 
 ### STOMP Emergency · Messaging & concurrency
 
@@ -96,7 +118,7 @@ A university task-management backend for users, boards, columns and tasks, with 
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/stack-section-mobile.svg"><img src="assets/stack-section.svg" width="100%" alt="05 — Technology Stack"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/stack-section-mobile.svg"><img src="assets/stack-section.svg" width="100%" alt="06 — Technology Stack"></picture>
 
 **Languages**<br><img src="assets/stack/typescript.svg" alt="TypeScript"> <img src="assets/stack/javascript.svg" alt="JavaScript"> <img src="assets/stack/c-.svg" alt="C#"> <img src="assets/stack/java.svg" alt="Java"> <img src="assets/stack/c--.svg" alt="C++"> <img src="assets/stack/python.svg" alt="Python"> <img src="assets/stack/powershell.svg" alt="PowerShell">
 
@@ -114,8 +136,9 @@ A university task-management backend for users, boards, columns and tasks, with 
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/building-section-mobile.svg"><img src="assets/building-section.svg" width="100%" alt="06 — Currently Building"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/building-section-mobile.svg"><img src="assets/building-section.svg" width="100%" alt="07 — Currently Building"></picture>
 
+- **PostMark:** multilingual classification, reliable background work, inference efficiency and publication readiness.
 - **WILO:** refining the live workspace, assistant boundaries and device verification.
 - **Robot Arm Studio:** calibration, smoother movement, mechanical fit and physical validation. Camera/sensor integration remains planned.
 - **FPV Drone:** ongoing tuning, simulator practice and documentation of the current build condition.
@@ -124,7 +147,7 @@ A university task-management backend for users, boards, columns and tasks, with 
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/contact-section-mobile.svg"><img src="assets/contact-section.svg" width="100%" alt="07 — Contact & Explore"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/contact-section-mobile.svg"><img src="assets/contact-section.svg" width="100%" alt="08 — Contact & Explore"></picture>
 
 <p align="center"><b>Follow the work as it develops.</b><br><br><a href="https://github.com/AdamAbuToamy">GitHub / AdamAbuToamy</a> &nbsp; · &nbsp; <a href="https://github.com/AdamAbuToamy?tab=repositories">All repositories</a> &nbsp; · &nbsp; <a href="https://where-i-left-off.web.app/">Try WILO ↗</a></p>
 

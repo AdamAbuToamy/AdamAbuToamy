@@ -54,3 +54,7 @@ The project's existing `docs/media/images` and `docs/media/videos` are promotion
 - Kanban Backend README and `KanbanApp/Kanban_BackEnd`: C#/.NET, Service/Business layers and backend tests.
 
 No project test suite was rerun for this media/README change; historical project test results are not presented as fresh results. Ammar Mawassi's original STOMP collaboration credit is retained. Profile design SVGs and title backgrounds are original decorative assets, not project screenshots.
+
+## PostMark addition
+
+Source: AdamAbuToamy/PostMark-ai-email-agent README and published assets/cleanup.png, reviewed 1 November 2026. postmark-cleanup.png is a direct crop of the original 1842px-wide screenshot to its top 650px; no UI content was generated or changed. Message rows are outside the preview crop. Public repository is documentation-only; runtime capabilities are described as project documentation, not independently rerun tests. Work-in-progress and unpublished-source limitations are explicit.
