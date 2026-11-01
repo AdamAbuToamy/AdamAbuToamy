@@ -10,9 +10,9 @@
 
 **[WILO — Where I Left Off](https://github.com/AdamAbuToamy/where-i-left-off)** brings projects, study plans, links, checkpoints and checklists together in Arabic, Hebrew and English. Built with **React · TypeScript · Firebase**.
 
-<a href="assets/wilo-showcase.mp4"><img src="assets/wilo-preview.gif" width="100%" alt="WILO film preview with real browser captures of the workspace; open the full 32-second film"></a>
+<a href="assets/wilo-showcase.mp4"><img src="assets/wilo-preview.gif" width="100%" alt="High-resolution WILO preview from real 2× browser captures; open the full HD film"></a>
 
-**[▶ Watch the new UI film](assets/wilo-showcase.mp4)** · **[Launch WILO ↗](https://where-i-left-off.web.app/)** · **[Explore the source](https://github.com/AdamAbuToamy/where-i-left-off)**
+**[▶ Full HD UI film — open / download](assets/wilo-showcase.mp4)** · **[Launch WILO ↗](https://where-i-left-off.web.app/)** · **[Explore the source](https://github.com/AdamAbuToamy/where-i-left-off)**
 
 <details>
 <summary><b>Inside the real interface — workspace, cards, sessions & mobile</b></summary>
@@ -34,19 +34,21 @@
 
 ### Robot Arm Studio · From servo commands to physical motion
 
-<p><img src="assets/robot-arm.jpg" width="45%" alt="Real 3D-printed robot arm and electronics, from the original build recording"> <a href="https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/VID-20261010-WA0009.mp4"><img src="assets/robot-motion.gif" width="45%" alt="Four seconds of actual robot motion from the original recording"></a></p>
+<p><img src="assets/robot-arm.jpg" width="45%" alt="Assembled physical robot arm with its complete gripper, from the 15 October recording"> <a href="assets/robot-assembled.mp4"><img src="assets/robot-motion.gif" width="45%" alt="Real motion of the assembled arm and complete gripper; open the full recording"></a></p>
 
 **3D-printed arm · ESP32-S3 · PCA9685 · Servo control**
 
 Assembly, electronics integration and a browser controller with manual control, calibration and saved motion sequences. **Work in progress:** mechanical refinement, calibration and physical validation continue. Software capabilities do not establish measured hardware accuracy.
 
-[**Controller & build log ↗**](https://github.com/AdamAbuToamy/RobotArmStudio) · [Original motion recording](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/VID-20261010-WA0009.mp4)
+[**Controller & build log ↗**](https://github.com/AdamAbuToamy/RobotArmStudio) · [▶ Assembled arm — full recording](assets/robot-assembled.mp4)
 
 <sub>Mechanical base design purchased from [FABRI_CREATOR on Cults3D](https://cults3d.com/en/3d-model/gadget/brazo-robotico-con-arduino-step-files-robotic-arm-guardar-reproducir-export). Adam's work covers assembly, selected adaptations, electronics and controller integration. [Attribution](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/ATTRIBUTION.md).</sub>
 
 ### FPV Drone · Build. Diagnose. Repair.
 
-<img src="assets/drone-build.jpg" width="100%" alt="Original FPV build photo showing hands-on wiring and soldering on the quadcopter">
+<a href="assets/drone-betaflight.mp4"><img src="assets/drone-betaflight.gif" width="100%" alt="Real Betaflight accelerometer/orientation check: moving the physical drone changes the displayed 3D model"></a>
+
+**[▶ Betaflight orientation check — full recording](assets/drone-betaflight.mp4)** · [Build photograph](assets/drone-build.jpg)
 
 **5-inch quadcopter · Betaflight · Wiring & soldering · ESC diagnosis**
 
