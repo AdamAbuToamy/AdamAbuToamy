@@ -1,99 +1,116 @@
 <div align="center">
 
-![Animated nameplate](assets/hero.svg)
+# ADAM ABU TOAMY
 
-### Hi, I'm Adam 👋
-**Software Engineering Student · Building software that people can actually use**
+### Software Engineering Student · Product Builder · Robotics Enthusiast
 
-<a href="https://github.com/AdamAbuToamy?tab=repositories"><img alt="All repositories" src="https://img.shields.io/badge/Explore_Repositories-111c33?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://where-i-left-off.web.app/"><img alt="WILO live app" src="https://img.shields.io/badge/Try_WILO-08b5a7?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://github.com/AdamAbuToamy/DeskPages/releases"><img alt="DeskPages releases" src="https://img.shields.io/badge/Get_DeskPages-6d73ef?style=for-the-badge&logo=windows11&logoColor=white"></a>
+**From practical applications to machines you can hold.**
 
-</div>
+<img alt="Software Engineering" src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-101C36?style=for-the-badge&labelColor=14B8A6"> <img alt="Projects in progress" src="https://img.shields.io/badge/BUILDING-IN_PUBLIC-7C3AED?style=for-the-badge"> <img alt="Real-world engineering" src="https://img.shields.io/badge/REAL_WORLD-ENGINEERING-2563EB?style=for-the-badge">
 
----
-
-## ⚡ What I'm building
-
-I'm interested in **polished user experiences**, **native desktop integrations**, and **reliable backends**. I build, debug, test and iterate on real projects — from a multilingual study workspace to a Windows desktop organizer.
-
-<div align="center">
-
-<img alt="C sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"> <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white"> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white"> <img alt="Web" src="https://img.shields.io/badge/Web_Apps-18BCA7?style=flat-square">
+[**Featured projects**](#-featured-projects) · [**Hardware lab**](#-hardware-lab) · [**Technical work**](#-systems--software-engineering)
 
 </div>
 
 ---
 
-## 🎥 DeskPages — featured video
+## ✨ Featured projects
 
-**Original promotional concept video from the project repository** (not a verified screen recording).
+### 01 / WILO — Where I Left Off
+**Product engineering · Productivity · AI-assisted workflows**
 
-https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d
+A live multilingual workspace for projects, study plans, links, notes, checklists, schedules and team organization. The assistant prepares supported changes for review instead of silently modifying your data.
 
-> GitHub decides whether the original user-attachment URL renders as an inline player here. A guaranteed auto-playing preview requires an actual GIF/WebP asset extracted from the source video.
+[![Try WILO](https://img.shields.io/badge/TRY_THE_LIVE_APP-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://where-i-left-off.web.app/)
+[![Source](https://img.shields.io/badge/SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdamAbuToamy/where-i-left-off)
 
-### 🖥️ [DeskPages](https://github.com/AdamAbuToamy/DeskPages)
-
-![DeskPages settings from project media](https://raw.githubusercontent.com/AdamAbuToamy/DeskPages/main/media/DeskPages-settings-0.8.12-en.png)
-
-A Windows 11 desktop-page manager built with **C# · .NET · WPF**. [Source and releases](https://github.com/AdamAbuToamy/DeskPages/releases).
+> **Real interface showcase in preparation.** No synthetic product screens are shown as screenshots.
 
 ---
 
-## 🧪 WILO — Where I Left Off
+## 🦾 Hardware lab
 
-A deployed multilingual study and project organizer with schedules, checklists, offline editing and an AI-assisted workflow.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[Try the real web app](https://where-i-left-off.web.app/) · [Source code](https://github.com/AdamAbuToamy/where-i-left-off)
+### 02 / [Robot Arm Studio](https://github.com/AdamAbuToamy/RobotArmStudio)
 
-**Real browser/simulator footage:** not yet captured or verified. The existing repository promotional videos are conceptual media, not verified recordings of the live app.
+<img src="https://raw.githubusercontent.com/AdamAbuToamy/RobotArmStudio/main/docs/media/robot-and-controller.jpg" alt="Robot arm and controller media from the project repository" width="100%">
+
+**3D-printed robotic arm** integrating physical servos, ESP32 control, calibration, manual control and saved routines.
+
+<img src="https://img.shields.io/badge/PROJECT-WORK_IN_PROGRESS-A855F7?style=flat-square">
+
+</td>
+<td width="50%" valign="top">
+
+### 03 / [FPV Drone](https://github.com/AdamAbuToamy/FPV-Drone)
+
+<img src="https://raw.githubusercontent.com/AdamAbuToamy/FPV-Drone/main/docs/media/drone-built.jpg" alt="FPV drone media from the project repository" width="100%">
+
+**Five-inch quadcopter** assembled and configured with Betaflight; includes electronics troubleshooting and a documented ESC repair.
+
+<img src="https://img.shields.io/badge/PROJECT-WORK_IN_PROGRESS-A855F7?style=flat-square">
+
+</td>
+</tr>
+</table>
+
+**Robot arm — movement captured in the project:**
+
+![Robot control motion from project media](https://raw.githubusercontent.com/AdamAbuToamy/RobotArmStudio/main/docs/media/robot-control.gif)
+
+[Robot control video](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/robot-control-demo.mp4) · [Later motion video](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/robot-motion-demo.mp4) · [Drone bench recording](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/drone-bench-demo.mp4) · [Drone orientation check](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/betaflight-orientation-demo.mp4)
 
 ---
 
-## 🤖 Robot Arm Studio — hardware in motion
+## 🖥️ Desktop engineering
 
-<img src="https://raw.githubusercontent.com/AdamAbuToamy/RobotArmStudio/main/docs/media/robot-and-controller.jpg" alt="Robot and controller image from the project repository" width="700">
+### 04 / [DeskPages](https://github.com/AdamAbuToamy/DeskPages)
 
-<img src="https://raw.githubusercontent.com/AdamAbuToamy/RobotArmStudio/main/docs/media/robot-control.gif" alt="Robot movement GIF from the project repository" width="700">
+A native **Windows 11** desktop organizer, built with **C# / .NET / WPF**, that manages icon visibility across multiple desktop pages without changing the original file locations.
 
-**[Original control video](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/robot-control-demo.mp4)** · **[Later motion video](https://github.com/AdamAbuToamy/RobotArmStudio/blob/main/docs/media/robot-motion-demo.mp4)** · [Project documentation](https://github.com/AdamAbuToamy/RobotArmStudio)
+<a href="https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d"><img src="https://raw.githubusercontent.com/AdamAbuToamy/DeskPages/main/media/DeskPages-settings-0.8.12-en.png" width="520" alt="Authentic DeskPages settings capture; click for concept promotional video"></a>
 
-3D-printed robotic arm, physical control electronics, calibrated servo movement and saved motion routines. **Work in progress.**
+**[▶ Watch the project's concept promotional video](https://github.com/user-attachments/assets/1604baac-4e1b-4fa8-92d0-7a5c943df32d)** · [Releases](https://github.com/AdamAbuToamy/DeskPages/releases)
 
----
-
-## 🚁 FPV Drone — physical build & repair
-
-<img src="https://raw.githubusercontent.com/AdamAbuToamy/FPV-Drone/main/docs/media/drone-built.jpg" alt="FPV drone photograph from the project repository" width="700">
-
-**[Bench test video](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/drone-bench-demo.mp4)** · **[Betaflight orientation video](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/media/betaflight-orientation-demo.mp4)** · [Repair record](https://github.com/AdamAbuToamy/FPV-Drone/blob/main/docs/REPAIR_LOG.md)
-
-A 5-inch FPV build documenting assembly, flight-controller configuration, diagnosis and repairs. No unverified flight-readiness claims.
+<sub>The preview is a documented project capture using fixture data; the promotional concept video is not a verified recording of every current feature.</sub>
 
 ---
 
-### 🔧 Engineering & systems
+## ⚙️ Systems & software engineering
 
-| Project | What it demonstrates | Stack |
+| Project | Engineering focus | Stack |
 | :-- | :-- | :-- |
-| [STOMP Emergency](https://github.com/AdamAbuToamy/stomp-emergency) | Real TCP messaging server and multithreaded client; university collaboration with Ammar Mawassi | Java · C++ · Networking |
-| [Kanban Backend](https://github.com/AdamAbuToamy/kanban-backend-csharp) | Layered task management backend, validation and tests | C# · .NET · OOP |
+| [STOMP Emergency](https://github.com/AdamAbuToamy/stomp-emergency) | Messaging server, multithreaded TCP client and integration tests. University collaboration with Ammar Mawassi. | Java, C++, TCP |
+| [Kanban Backend](https://github.com/AdamAbuToamy/kanban-backend-csharp) | Layered architecture, domain operations, task validation and backend tests. | C#, .NET |
 
 ---
 
-## 🧰 Focus areas
+## 🧩 Technologies & interests
 
-<table><tr><td align="center">🎨<br><b>Product UX</b><br><sub>Usable, responsive interfaces</sub></td><td align="center">🖥️<br><b>Native Apps</b><br><sub>Windows desktop integration</sub></td><td align="center">⚙️<br><b>Backend</b><br><sub>Architecture & validation</sub></td><td align="center">🧪<br><b>Quality</b><br><sub>Testing & debugging</sub></td></tr></table>
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352A?style=for-the-badge)
+![WPF](https://img.shields.io/badge/WPF-2563EB?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-10B981?style=for-the-badge)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ Let's build something useful
+### Building, testing, improving.
 
-<a href="https://github.com/AdamAbuToamy?tab=repositories"><img alt="Explore my code" src="https://img.shields.io/badge/Explore_My_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"></a>
+[Explore all repositories](https://github.com/AdamAbuToamy?tab=repositories) · [Try WILO](https://where-i-left-off.web.app/)
 
-*Every project here is real. Screenshots are real captures; missing demos remain clearly marked.*
+<sub>Visual media comes from the linked projects. Work-in-progress projects and promotional concepts are labeled accordingly.</sub>
 
 </div>
