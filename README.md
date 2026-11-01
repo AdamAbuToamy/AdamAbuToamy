@@ -4,13 +4,13 @@
 
 <p align="center"><a href="https://where-i-left-off.web.app/"><img src="https://img.shields.io/badge/OPEN_WILO-39E8F4?style=for-the-badge" alt="Open WILO"></a> <a href="https://github.com/AdamAbuToamy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-AD8AFF?style=for-the-badge" alt="Explore repositories"></a></p>
 
-<picture><source media="(max-width: 600px)" srcset="assets/wilo-section-mobile.svg"><img src="assets/wilo-section.svg" width="100%" alt="02 — Featured project: WILO"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/wilo-section-mobile.svg"><img src="assets/wilo-section.svg" width="100%" alt="01 — Featured project: WILO"></picture>
 
 ### A workspace that remembers the next step.
 
 **[WILO — Where I Left Off](https://github.com/AdamAbuToamy/where-i-left-off)** brings projects, study plans, links, checkpoints and checklists together in Arabic, Hebrew and English. Built with **React · TypeScript · Firebase**.
 
-<a href="assets/wilo-showcase.mp4"><img src="assets/wilo-preview.gif" width="100%" alt="High-resolution WILO preview from real 2× browser captures; open the full HD film"></a>
+<a href="assets/wilo-showcase.mp4"><img src="assets/wilo-preview.gif" width="100%" alt="Real WILO browser recording: workspace, card creation, weekly view and work-session notes"></a>
 
 **[▶ Full HD UI film — open / download](assets/wilo-showcase.mp4)** · **[Launch WILO ↗](https://where-i-left-off.web.app/)** · **[Explore the source](https://github.com/AdamAbuToamy/where-i-left-off)**
 
@@ -26,15 +26,15 @@
 
 **Engineering focus:** account-scoped persistence, offline edits, explicit conflict handling, and validated review-before-apply assistant proposals.
 
-<sub>The film demonstrates cards, navigation and work sessions. University and AI execution were excluded: the test account's unverified email blocks access. Voice recognition was not tested. [Capture notes & media provenance](assets/SOURCES.md).</sub>
+<sub>The film is a real browser walkthrough of the workspace, card creation, weekly view and work sessions. University and AI execution were excluded: the test account's unverified email blocks access. Voice recognition was not tested. [Capture notes & media provenance](assets/SOURCES.md).</sub>
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/hardware-section-mobile.svg"><img src="assets/hardware-section.svg" width="100%" alt="03 — Robotics & Hardware"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/hardware-section-mobile.svg"><img src="assets/hardware-section.svg" width="100%" alt="02 — Robotics & Hardware"></picture>
 
 ### Robot Arm Studio · From servo commands to physical motion
 
-<p><img src="assets/robot-arm.jpg" width="45%" alt="Assembled physical robot arm with its complete gripper, from the 15 October recording"> <a href="assets/robot-assembled.mp4"><img src="assets/robot-motion.gif" width="45%" alt="Real motion of the assembled arm and complete gripper; open the full recording"></a></p>
+<p><img src="assets/robot-arm.jpg" width="45%" alt="Assembled physical robot arm with its complete gripper, from the 15 October recording"> <a href="assets/robot-assembled.mp4"><img src="assets/robot-motion.gif" width="45%" alt="The entire assembled-arm recording, played at 3× speed; open the normal-speed original"></a></p>
 
 **3D-printed arm · ESP32-S3 · PCA9685 · Servo control**
 
@@ -60,7 +60,7 @@ A hands-on assembly and repair project: configuration, a hard-landing investigat
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/desktop-section-mobile.svg"><img src="assets/desktop-section.svg" width="100%" alt="04 — DeskPages"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/desktop-section-mobile.svg"><img src="assets/desktop-section.svg" width="100%" alt="03 — DeskPages"></picture>
 
 ### One desktop. Separate spaces.
 
@@ -74,7 +74,7 @@ A hands-on assembly and repair project: configuration, a hard-landing investigat
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/software-section-mobile.svg"><img src="assets/software-section.svg" width="100%" alt="05 — Software Engineering"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/software-section-mobile.svg"><img src="assets/software-section.svg" width="100%" alt="04 — Software Engineering"></picture>
 
 ### STOMP Emergency · Messaging & concurrency
 
@@ -96,7 +96,7 @@ A university task-management backend for users, boards, columns and tasks, with 
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/stack-section-mobile.svg"><img src="assets/stack-section.svg" width="100%" alt="06 — Technology Stack"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/stack-section-mobile.svg"><img src="assets/stack-section.svg" width="100%" alt="05 — Technology Stack"></picture>
 
 **Languages**<br><img src="assets/stack/typescript.svg" alt="TypeScript"> <img src="assets/stack/javascript.svg" alt="JavaScript"> <img src="assets/stack/c-.svg" alt="C#"> <img src="assets/stack/java.svg" alt="Java"> <img src="assets/stack/c--.svg" alt="C++"> <img src="assets/stack/python.svg" alt="Python"> <img src="assets/stack/powershell.svg" alt="PowerShell">
 
@@ -114,7 +114,7 @@ A university task-management backend for users, boards, columns and tasks, with 
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/building-section-mobile.svg"><img src="assets/building-section.svg" width="100%" alt="07 — Currently Building"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/building-section-mobile.svg"><img src="assets/building-section.svg" width="100%" alt="06 — Currently Building"></picture>
 
 - **WILO:** refining the live workspace, assistant boundaries and device verification.
 - **Robot Arm Studio:** calibration, smoother movement, mechanical fit and physical validation. Camera/sensor integration remains planned.
@@ -124,7 +124,7 @@ A university task-management backend for users, boards, columns and tasks, with 
 
 <br>
 
-<picture><source media="(max-width: 600px)" srcset="assets/contact-section-mobile.svg"><img src="assets/contact-section.svg" width="100%" alt="08 — Contact & Explore"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/contact-section-mobile.svg"><img src="assets/contact-section.svg" width="100%" alt="07 — Contact & Explore"></picture>
 
 <p align="center"><b>Follow the work as it develops.</b><br><br><a href="https://github.com/AdamAbuToamy">GitHub / AdamAbuToamy</a> &nbsp; · &nbsp; <a href="https://github.com/AdamAbuToamy?tab=repositories">All repositories</a> &nbsp; · &nbsp; <a href="https://where-i-left-off.web.app/">Try WILO ↗</a></p>
 
