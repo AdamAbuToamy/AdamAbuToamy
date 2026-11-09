@@ -4,6 +4,78 @@
 
 <p align="center"><a href="https://where-i-left-off.web.app/"><img src="https://img.shields.io/badge/OPEN_WILO-39E8F4?style=for-the-badge" alt="Open WILO"></a> <a href="https://github.com/AdamAbuToamy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-AD8AFF?style=for-the-badge" alt="Explore repositories"></a></p>
 
+<!-- Cyber overview: the cards below are real project links and previews, not a mock application UI. -->
+<p align="center"><img src="assets/cyber-dashboard.svg" width="100%" alt="Cyber development dashboard with an illustrated isometric contribution city, language and project overview"></p>
+
+<h2 align="center">✦ SELECTED WORK / PROJECT GRID ✦</h2>
+<p align="center"><sub>Real projects · Real previews · Click any card to open the repository</sub></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AdamAbuToamy/where-i-left-off"><img src="assets/wilo-preview.gif" width="100%" alt="WILO project and university organizer preview"></a><br>
+<b>01 / <a href="https://github.com/AdamAbuToamy/where-i-left-off">WILO · Where I Left Off</a></b><br>
+<sub>React · TypeScript · Firebase · Projects & university</sub><br>
+<sub>Live workspace for tasks, sessions and study checkpoints</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><img src="assets/postmark-cleanup.png" width="100%" alt="Real PostMark inbox organization interface"></a><br>
+<b>02 / <a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent">PostMark · AI Email Agent</a></b><br>
+<sub>Python · FastAPI · React · AI routing</sub><br>
+<sub>Multilingual inbox organization and recoverable automation</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AdamAbuToamy/RobotArmStudio"><img src="assets/robot-motion.gif" width="100%" alt="Physical servo-driven robot arm in motion"></a><br>
+<b>03 / <a href="https://github.com/AdamAbuToamy/RobotArmStudio">Robot Arm Studio</a></b><br>
+<sub>ESP32-S3 · PCA9685 · 3D printing</sub><br>
+<sub>Hardware assembly and browser-based motion control</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/AdamAbuToamy/FPV-Drone"><img src="assets/drone-betaflight.gif" width="100%" alt="Actual FPV drone orientation test in Betaflight"></a><br>
+<b>04 / <a href="https://github.com/AdamAbuToamy/FPV-Drone">FPV Drone</a></b><br>
+<sub>Betaflight · ESC diagnostics · Soldering</sub><br>
+<sub>Real quadcopter build, investigation and repair</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AdamAbuToamy/DeskPages"><img src="assets/deskpages-tour.gif" width="100%" alt="Actual DeskPages desktop icon organizer tour"></a><br>
+<b>05 / <a href="https://github.com/AdamAbuToamy/DeskPages">DeskPages</a></b><br>
+<sub>C# · .NET · WinForms · Windows</sub><br>
+<sub>Organize desktop icons into separate spaces</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/AdamAbuToamy/stomp-emergency"><img src="https://img.shields.io/badge/STOMP-EMERGENCY-28dfbb?style=for-the-badge&amp;labelColor=081725" alt="STOMP Emergency project"></a><br>
+<b>06 / <a href="https://github.com/AdamAbuToamy/stomp-emergency">STOMP Emergency</a></b><br>
+<sub>Java · C++ · TCP · Multithreading</sub><br>
+<sub>Messaging, concurrency and fault-tolerant transport exercises</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AdamAbuToamy/kanban-backend-csharp"><img src="https://img.shields.io/badge/KANBAN-BACKEND-a487fa?style=for-the-badge&amp;labelColor=081725" alt="Kanban Backend project"></a><br>
+<b>07 / <a href="https://github.com/AdamAbuToamy/kanban-backend-csharp">Kanban Backend</a></b><br>
+<sub>C# · .NET · Business logic</sub><br>
+<sub>Task and board domain rules, layers and tests</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/AdamAbuToamy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-39e8f4?style=for-the-badge&amp;labelColor=081725" alt="Browse every public repository"></a><br>
+<b>08 / <a href="https://github.com/AdamAbuToamy?tab=repositories">Complete repository collection</a></b><br>
+<sub>University · Projects · Experiments · Hardware</sub><br>
+<sub>Browse the full collection, including smaller and course repositories</sub>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Illustrated 3D city is conceptual artwork, not a live contribution counter. Live repository activity is available on GitHub.</sub></p>
+
+---
+
+<h2 align="center">PROJECT DEEP DIVES</h2>
+<p align="center"><sub>Architecture, real captures, videos, limitations and source links</sub></p>
+
 <picture><source media="(max-width: 600px)" srcset="assets/wilo-section-mobile.svg"><img src="assets/wilo-section.svg" width="100%" alt="01 — Featured project: WILO"></picture>
 
 ### A workspace that remembers the next step.
