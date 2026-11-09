@@ -15,7 +15,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdamAbuToamy&amp;theme=github_dark&amp;animation=stagger" width="48%" alt="Real GitHub statistics"/>
 </p>
 
-<details open>
+<details>
 <summary><b>✦ 3D CONTRIBUTION CITY · REAL ACTIVITY</b> — animated, refreshed by GitHub Actions</summary>
 <br>
 <p align="center"><img src="./profile-3d-contrib/profile-green-animate.svg" width="98%" alt="3D animated contribution calendar generated from actual GitHub activity by GitHub Actions"/></p>
