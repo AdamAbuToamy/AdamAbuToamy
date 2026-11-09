@@ -2,7 +2,7 @@
 <picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.svg"><img src="assets/hero.svg" width="100%" alt="Adam Abu Toamy | Software Engineering, Systems, Robotics"></picture>
 
 <p align="center"><b>Software engineer building usable products, reliable systems and physical prototypes.</b></p>
-<p align="center"><a href="https://where-i-left-off.web.app/">Live product: WILO</a> &nbsp;·&nbsp; <a href="https://github.com/AdamAbuToamy?tab=repositories">All repositories</a></p>
+<p align="center"><a href="https://where-i-left-off.web.app/"><kbd>Live product: WILO</kbd></a> &nbsp;·&nbsp; <a href="https://github.com/AdamAbuToamy?tab=repositories"><kbd>All repositories</kbd></a></p>
 
 ## Featured Projects
 
@@ -15,7 +15,7 @@
 <strong>WILO</strong>
 <p>Project and university workspace with checkpoints, offline edits and account-scoped synchronization.</p>
 <sub>React · TypeScript · Firebase</sub>
-<p><a href="https://github.com/AdamAbuToamy/where-i-left-off"><b>Explore source →</b></a> · <a href="https://where-i-left-off.web.app/">Try WILO</a></p>
+<p><a href="https://github.com/AdamAbuToamy/where-i-left-off"><kbd><b>Explore source →</b></kbd></a> · <a href="https://where-i-left-off.web.app/"><kbd>Try WILO</kbd></a></p>
 
 </td>
 </tr></table>
@@ -30,7 +30,7 @@
 <strong>PostMark AI</strong>
 <p>Multilingual inbox organization with provider-aware AI routing and recoverable background jobs.</p>
 <sub>Python · FastAPI · React · SQLite</sub>
-<p><a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><b>Explore source →</b></a> · <a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent#real-application-screenshots">All screenshots</a></p>
+<p><a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><kbd><b>Explore source →</b></kbd></a> · <a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent#real-application-screenshots"><kbd>All screenshots</kbd></a></p>
 <sub>Work in progress.</sub>
 </td>
 </tr></table>
@@ -45,11 +45,11 @@
 <strong>Robot Arm Studio</strong>
 <p>Real assembled robotic arm with browser-based control, calibration and saved motion sequences.</p>
 <sub>ESP32-S3 · PCA9685 · Servo control</sub>
-<p><a href="https://github.com/AdamAbuToamy/RobotArmStudio"><b>Explore source →</b></a> · <a href="assets/robot-assembled.mp4">Full motion video</a></p>
+<p><a href="https://github.com/AdamAbuToamy/RobotArmStudio"><kbd><b>Explore source →</b></kbd></a> · <a href="assets/robot-assembled.mp4"><kbd>Full motion video</kbd></a></p>
 
 </td>
 </tr></table>
-<details><summary><b>View Robot Arm Studio gallery (3)</b></summary>
+<details><summary><b>View Robot Arm Studio gallery (2)</b></summary>
 <table><tr><td width="33%" valign="top"><img src="assets/robot-arm.jpg" width="100%" alt="Physical build"><sub>Physical build</sub></td><td width="33%" valign="top"><img src="assets/robot-motion.gif" width="100%" alt="Motion"><sub>Motion</sub></td></tr></table>
 </details>
 
@@ -60,7 +60,7 @@
 <strong>FPV Drone</strong>
 <p>Five-inch quadcopter build, fault investigation and real Betaflight orientation testing.</p>
 <sub>Betaflight · Wiring · ESC diagnostics</sub>
-<p><a href="https://github.com/AdamAbuToamy/FPV-Drone"><b>Explore source →</b></a> · <a href="assets/drone-betaflight.mp4">Full test video</a></p>
+<p><a href="https://github.com/AdamAbuToamy/FPV-Drone"><kbd><b>Explore source →</b></kbd></a> · <a href="assets/drone-betaflight.mp4"><kbd>Full test video</kbd></a></p>
 
 </td>
 </tr></table>
@@ -75,7 +75,7 @@
 <strong>DeskPages</strong>
 <p>Native desktop icon pages that preserve original file paths, with gesture and keyboard navigation.</p>
 <sub>C# · .NET · WinForms</sub>
-<p><a href="https://github.com/AdamAbuToamy/DeskPages"><b>Explore source →</b></a> · <a href="https://github.com/AdamAbuToamy/DeskPages/releases">Download alpha</a></p>
+<p><a href="https://github.com/AdamAbuToamy/DeskPages"><kbd><b>Explore source →</b></kbd></a> · <a href="https://github.com/AdamAbuToamy/DeskPages/releases"><kbd>Download alpha</kbd></a></p>
 <sub>Hero animation is an AI-generated concept; actual captured UI is in the gallery.</sub>
 </td>
 </tr></table>
@@ -90,7 +90,7 @@
 <strong>STOMP Emergency</strong>
 <p>Educational concurrent messaging system with Reactor mode, subscriptions and fault-injection tests.</p>
 <sub>Java · C++ · TCP/STOMP</sub>
-<p><a href="https://github.com/AdamAbuToamy/stomp-emergency"><b>Explore source →</b></a> · <a href="https://github.com/AdamAbuToamy/stomp-emergency/actions">Tests</a></p>
+<p><a href="https://github.com/AdamAbuToamy/stomp-emergency"><kbd><b>Explore source →</b></kbd></a> · <a href="https://github.com/AdamAbuToamy/stomp-emergency/actions"><kbd>Tests</kbd></a></p>
 <sub>University collaboration with Ammar Mawassi.</sub>
 </td>
 </tr></table>
@@ -103,13 +103,13 @@
 <strong>Kanban Backend</strong>
 <p>Task-management backend implementing state transitions, column capacity rules and input validation.</p>
 <sub>C# · .NET · Domain rules</sub>
-<p><a href="https://github.com/AdamAbuToamy/kanban-backend-csharp"><b>Explore source →</b></a> · <a href="https://github.com/AdamAbuToamy/kanban-backend-csharp/tree/main/KanbanApp/Kanban_BackEnd/BusinessLayer">Business layer</a></p>
+<p><a href="https://github.com/AdamAbuToamy/kanban-backend-csharp"><kbd><b>Explore source →</b></kbd></a> · <a href="https://github.com/AdamAbuToamy/kanban-backend-csharp/tree/main/KanbanApp/Kanban_BackEnd/BusinessLayer"><kbd>Business layer</kbd></a></p>
 
 </td>
 </tr></table>
 
 
-<p align="center"><a href="https://github.com/AdamAbuToamy?tab=repositories"><b>All repositories →</b></a></p>
+<p align="center"><a href="https://github.com/AdamAbuToamy?tab=repositories"><kbd><b>All repositories →</b></kbd></a></p>
 
 ## GitHub Activity
 
