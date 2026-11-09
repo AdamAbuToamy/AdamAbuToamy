@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="144" viewBox="0 0 1200 144" role="img" aria-label="FPV Drone — Quadcopter build, repair &amp; diagnostics">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1830"/><stop offset=".6" stop-color="#07121f"/><stop offset="1" stop-color="#0b1e2b"/></linearGradient><linearGradient id="line"><stop stop-color="#f3b972"/><stop offset="1" stop-color="#184c68"/></linearGradient></defs>
+<rect x="3" y="3" width="1194" height="138" rx="24" fill="url(#bg)" stroke="#284257" stroke-width="2"/><rect x="3" y="3" width="6" height="138" rx="3" fill="#f3b972"/>
+<rect x="23" y="21" width="102" height="102" rx="21" fill="#0a2938" stroke="#f3b972" stroke-opacity=".65" stroke-width="2"/>
+<g transform="translate(39 37)" color="#f3b972" stroke-linecap="round" stroke-linejoin="round"><circle cx='35' cy='35' r='10' fill='none' stroke='currentColor' stroke-width='4'/><path d='M28 28L15 15M42 28l13-13M28 42L15 55M42 42l13 13' stroke='currentColor' stroke-width='5' stroke-linecap='round'/><circle cx='14' cy='14' r='7' fill='none' stroke='currentColor' stroke-width='3'/><circle cx='56' cy='14' r='7' fill='none' stroke='currentColor' stroke-width='3'/><circle cx='14' cy='56' r='7' fill='none' stroke='currentColor' stroke-width='3'/><circle cx='56' cy='56' r='7' fill='none' stroke='currentColor' stroke-width='3'/></g>
+<text x="151" y="61" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" fill="#f3f9ff">FPV Drone</text>
+<text x="153" y="95" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#9db8c9">Quadcopter build, repair &amp; diagnostics</text>
+<text x="153" y="123" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#f3b972">Betaflight · ESC · Soldering</text>
+<rect x="969" y="45" width="185" height="52" rx="15" fill="#102639" stroke="#f3b972" stroke-opacity=".68"/>
+<text x="1060" y="76" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="19" fill="#d9f9ff">OPEN DETAILS  +</text>
+<text x="933" y="78" text-anchor="middle" font-family="monospace" font-size="20" fill="#658b9d">04</text>
+</svg>
