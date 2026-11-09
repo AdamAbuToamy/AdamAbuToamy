@@ -31,7 +31,7 @@
 <p align="center"><sub>Seven projects · Consistent cyber-dark rows · Click a row for a short summary, then choose Open repository</sub></p>
 
 <details>
-<summary><img src="assets/repo-bars/wilo.svg" alt="WILO — Where I Left Off — click to expand" width="100%"></summary>
+<summary><strong>🗂️ &nbsp; WILO</strong> &nbsp; — &nbsp; Project and university workspace &nbsp; <sub>▸ SHOW DETAILS</sub></summary>
 
 **WILO — Where I Left Off**
 
@@ -42,7 +42,7 @@ Project and university workspace for links, checkpoints, study plans, checklists
 </details>
 
 <details>
-<summary><img src="assets/repo-bars/postmark.svg" alt="PostMark — AI Email Agent — click to expand" width="100%"></summary>
+<summary><strong>✉️ &nbsp; PostMark AI</strong> &nbsp; — &nbsp; Multilingual email organization &nbsp; <sub>▸ SHOW DETAILS</sub></summary>
 
 **PostMark — AI Email Agent**
 
@@ -53,7 +53,7 @@ Self-hosted multilingual email organization with account-aware routing, backgrou
 </details>
 
 <details>
-<summary><img src="assets/repo-bars/robot-arm.svg" alt="Robot Arm Studio — click to expand" width="100%"></summary>
+<summary><strong>🦾 &nbsp; Robot Arm Studio</strong> &nbsp; — &nbsp; Servo control and robotics &nbsp; <sub>▸ SHOW DETAILS</sub></summary>
 
 **Robot Arm Studio**
 
@@ -64,7 +64,7 @@ An assembled 3D-printed robot arm with ESP32-S3, PCA9685, servo controls, browse
 </details>
 
 <details>
-<summary><img src="assets/repo-bars/fpv-drone.svg" alt="FPV Drone — click to expand" width="100%"></summary>
+<summary><strong>🚁 &nbsp; FPV Drone</strong> &nbsp; — &nbsp; Quadcopter build and diagnostics &nbsp; <sub>▸ SHOW DETAILS</sub></summary>
 
 **FPV Drone**
 
@@ -75,7 +75,7 @@ A real 5-inch quadcopter build involving Betaflight configuration, electronics i
 </details>
 
 <details>
-<summary><img src="assets/repo-bars/deskpages.svg" alt="DeskPages — click to expand" width="100%"></summary>
+<summary><strong>🖥️ &nbsp; DeskPages</strong> &nbsp; — &nbsp; Windows desktop organization &nbsp; <sub>▸ SHOW DETAILS</sub></summary>
 
 **DeskPages**
 
@@ -86,7 +86,7 @@ A C# / .NET Windows 11 utility that organizes desktop icons into pages while pre
 </details>
 
 <details>
-<summary><img src="assets/repo-bars/stomp.svg" alt="STOMP Emergency — click to expand" width="100%"></summary>
+<summary><strong>⚡ &nbsp; STOMP Emergency</strong> &nbsp; — &nbsp; Networking and concurrency &nbsp; <sub>▸ SHOW DETAILS</sub></summary>
 
 **STOMP Emergency**
 
@@ -97,7 +97,7 @@ A Java server and multithreaded C++ client for an educational emergency-report s
 </details>
 
 <details>
-<summary><img src="assets/repo-bars/kanban.svg" alt="Kanban Backend — click to expand" width="100%"></summary>
+<summary><strong>📋 &nbsp; Kanban Backend</strong> &nbsp; — &nbsp; C# backend and domain rules &nbsp; <sub>▸ SHOW DETAILS</sub></summary>
 
 **Kanban Backend**
 
