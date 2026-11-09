@@ -4,77 +4,101 @@
 
 <p align="center"><a href="https://where-i-left-off.web.app/"><img src="https://img.shields.io/badge/OPEN_WILO-39E8F4?style=for-the-badge" alt="Open WILO"></a> <a href="https://github.com/AdamAbuToamy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-AD8AFF?style=for-the-badge" alt="Explore repositories"></a></p>
 
-<!-- Cyber overview: the cards below are real project links and previews, not a mock application UI. -->
-<p align="center"><img src="assets/cyber-dashboard.svg" width="100%" alt="Cyber development dashboard with an illustrated isometric contribution city, language and project overview"></p>
+<!-- Live GitHub metrics; no fabricated contribution or language totals. -->
+<h2 align="center">⌁ DEVELOPMENT TELEMETRY ⌁</h2>
+<p align="center"><sub>GitHub-derived metrics · Automatically refreshed by the upstream card provider · Public activity</sub></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamAbuToamy&amp;theme=github_dark&amp;animation=load" width="98%" alt="Real GitHub contribution timeline and profile summary"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdamAbuToamy&amp;theme=github_dark&amp;animation=draw" width="48%" alt="Actual repository language distribution"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdamAbuToamy&amp;theme=github_dark&amp;animation=stagger" width="48%" alt="Real GitHub statistics"/>
+</p>
 
-<h2 align="center">✦ SELECTED WORK / PROJECT GRID ✦</h2>
-<p align="center"><sub>Real projects · Real previews · Click any card to open the repository</sub></p>
+<details open>
+<summary><b>✦ 3D CONTRIBUTION CITY · REAL ACTIVITY</b> — animated, refreshed by GitHub Actions</summary>
+<br>
+<p align="center"><img src="./profile-3d-contrib/profile-green-animate.svg" width="98%" alt="3D animated contribution calendar generated from actual GitHub activity by GitHub Actions"/></p>
+<p align="center"><sub>Generated daily from your actual contribution calendar. The image becomes available after the first successful <a href="https://github.com/AdamAbuToamy/AdamAbuToamy/actions/workflows/profile-3d.yml">3D workflow run</a>; it is not a live 3D browser canvas.</sub></p>
+</details>
+
+<h2 align="center">⌁ FEATURED REPOSITORIES ⌁</h2>
+<p align="center"><sub>Original project media, compact previews, repository links · Select a card to explore the code</sub></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/AdamAbuToamy/where-i-left-off"><img src="assets/wilo-preview.gif" width="100%" alt="WILO project and university organizer preview"></a><br>
-<b>01 / <a href="https://github.com/AdamAbuToamy/where-i-left-off">WILO · Where I Left Off</a></b><br>
-<sub>React · TypeScript · Firebase · Projects & university</sub><br>
-<sub>Live workspace for tasks, sessions and study checkpoints</sub>
+<a href="https://github.com/AdamAbuToamy/where-i-left-off"><img src="assets/wilo-preview.gif" width="100%" alt="Real WILO app preview"/></a><br/>
+<strong>01 · <a href="https://github.com/AdamAbuToamy/where-i-left-off">WILO</a></strong> <img src="https://img.shields.io/github/stars/AdamAbuToamy/where-i-left-off?style=flat-square&amp;color=38e3e3&amp;label=%E2%98%85" alt="WILO stars"/><br/>
+<sub>🗂️ Project & University Workspace</sub><br/>
+<sub>React · TypeScript · Firebase</sub><br/>
+<a href="https://where-i-left-off.web.app/">Live app</a> · <a href="https://github.com/AdamAbuToamy/where-i-left-off">Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><img src="assets/postmark-cleanup.png" width="100%" alt="Real PostMark inbox organization interface"></a><br>
-<b>02 / <a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent">PostMark · AI Email Agent</a></b><br>
-<sub>Python · FastAPI · React · AI routing</sub><br>
-<sub>Multilingual inbox organization and recoverable automation</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/AdamAbuToamy/RobotArmStudio"><img src="assets/robot-motion.gif" width="100%" alt="Physical servo-driven robot arm in motion"></a><br>
-<b>03 / <a href="https://github.com/AdamAbuToamy/RobotArmStudio">Robot Arm Studio</a></b><br>
-<sub>ESP32-S3 · PCA9685 · 3D printing</sub><br>
-<sub>Hardware assembly and browser-based motion control</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/AdamAbuToamy/FPV-Drone"><img src="assets/drone-betaflight.gif" width="100%" alt="Actual FPV drone orientation test in Betaflight"></a><br>
-<b>04 / <a href="https://github.com/AdamAbuToamy/FPV-Drone">FPV Drone</a></b><br>
-<sub>Betaflight · ESC diagnostics · Soldering</sub><br>
-<sub>Real quadcopter build, investigation and repair</sub>
+<a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><img src="assets/postmark-cleanup.png" width="100%" alt="Real PostMark email organizer interface"/></a><br/>
+<strong>02 · <a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent">PostMark AI</a></strong> <img src="https://img.shields.io/github/stars/AdamAbuToamy/PostMark-ai-email-agent?style=flat-square&amp;color=38e3e3&amp;label=%E2%98%85" alt="PostMark stars"/><br/>
+<sub>✉️ Multilingual Email Agent</sub><br/>
+<sub>Python · FastAPI · React</sub><br/>
+<a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent">Project & screenshots</a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/AdamAbuToamy/DeskPages"><img src="assets/deskpages-tour.gif" width="100%" alt="Actual DeskPages desktop icon organizer tour"></a><br>
-<b>05 / <a href="https://github.com/AdamAbuToamy/DeskPages">DeskPages</a></b><br>
-<sub>C# · .NET · WinForms · Windows</sub><br>
-<sub>Organize desktop icons into separate spaces</sub>
+<td valign="top">
+<a href="https://github.com/AdamAbuToamy/RobotArmStudio"><img src="assets/robot-motion.gif" width="100%" alt="Actual assembled robot arm motion"/></a><br/>
+<strong>03 · <a href="https://github.com/AdamAbuToamy/RobotArmStudio">Robot Arm Studio</a></strong><br/>
+<sub>🦾 Robotics · ESP32-S3 · Servos</sub><br/>
+<a href="https://github.com/AdamAbuToamy/RobotArmStudio">Controller & build log</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/AdamAbuToamy/stomp-emergency"><img src="https://img.shields.io/badge/STOMP-EMERGENCY-28dfbb?style=for-the-badge&amp;labelColor=081725" alt="STOMP Emergency project"></a><br>
-<b>06 / <a href="https://github.com/AdamAbuToamy/stomp-emergency">STOMP Emergency</a></b><br>
-<sub>Java · C++ · TCP · Multithreading</sub><br>
-<sub>Messaging, concurrency and fault-tolerant transport exercises</sub>
+<td valign="top">
+<a href="https://github.com/AdamAbuToamy/FPV-Drone"><img src="assets/drone-betaflight.gif" width="100%" alt="Real Betaflight drone orientation test"/></a><br/>
+<strong>04 · <a href="https://github.com/AdamAbuToamy/FPV-Drone">FPV Drone</a></strong><br/>
+<sub>🚁 FPV · Betaflight · Diagnostics</sub><br/>
+<a href="https://github.com/AdamAbuToamy/FPV-Drone">Build & repair journal</a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/AdamAbuToamy/kanban-backend-csharp"><img src="https://img.shields.io/badge/KANBAN-BACKEND-a487fa?style=for-the-badge&amp;labelColor=081725" alt="Kanban Backend project"></a><br>
-<b>07 / <a href="https://github.com/AdamAbuToamy/kanban-backend-csharp">Kanban Backend</a></b><br>
-<sub>C# · .NET · Business logic</sub><br>
-<sub>Task and board domain rules, layers and tests</sub>
+<td valign="top">
+<a href="https://github.com/AdamAbuToamy/DeskPages"><img src="assets/deskpages-tour.gif" width="100%" alt="Real DeskPages desktop organizer tour"/></a><br/>
+<strong>05 · <a href="https://github.com/AdamAbuToamy/DeskPages">DeskPages</a></strong><br/>
+<sub>🖥️ C# · .NET · Windows desktop</sub><br/>
+<a href="https://github.com/AdamAbuToamy/DeskPages">Explore source</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/AdamAbuToamy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-39e8f4?style=for-the-badge&amp;labelColor=081725" alt="Browse every public repository"></a><br>
-<b>08 / <a href="https://github.com/AdamAbuToamy?tab=repositories">Complete repository collection</a></b><br>
-<sub>University · Projects · Experiments · Hardware</sub><br>
-<sub>Browse the full collection, including smaller and course repositories</sub>
+<td valign="top">
+<a href="https://github.com/AdamAbuToamy/stomp-emergency"><img src="https://img.shields.io/badge/%E2%9A%A1-STOMP%20Emergency-46d8b4?style=for-the-badge&amp;labelColor=071729" alt="STOMP Emergency project icon"/></a><br/>
+<strong>06 · <a href="https://github.com/AdamAbuToamy/stomp-emergency">STOMP Emergency</a></strong><br/>
+<sub>⚡ Java · C++ · Networking · Concurrency</sub><br/>
+<a href="https://github.com/AdamAbuToamy/stomp-emergency">Architecture & tests</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/AdamAbuToamy/kanban-backend-csharp"><img src="https://img.shields.io/badge/%E2%97%88-Kanban%20Backend-9e89ff?style=for-the-badge&amp;labelColor=071729" alt="Kanban backend project icon"/></a><br/>
+<strong>07 · <a href="https://github.com/AdamAbuToamy/kanban-backend-csharp">Kanban Backend</a></strong><br/>
+<sub>📋 C# · .NET · Domain & business logic</sub><br/>
+<a href="https://github.com/AdamAbuToamy/kanban-backend-csharp">Code & tests</a>
+</td>
+<td valign="top">
+<a href="https://github.com/AdamAbuToamy?tab=repositories"><img src="https://img.shields.io/badge/%E2%88%9E-ALL%20REPOSITORIES-39e8f4?style=for-the-badge&amp;labelColor=071729" alt="Browse all repositories"/></a><br/>
+<strong>08 · <a href="https://github.com/AdamAbuToamy?tab=repositories">All Repositories</a></strong><br/>
+<sub>⌘ University · Engineering · Experiments</sub><br/>
+<a href="https://github.com/AdamAbuToamy?tab=repositories">Explore complete collection</a>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>Illustrated 3D city is conceptual artwork, not a live contribution counter. Live repository activity is available on GitHub.</sub></p>
+<details>
+<summary><b>▣ More live analytics</b> — commit languages & productive time</summary>
+<br>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdamAbuToamy&amp;theme=github_dark&amp;animation=draw" width="48%" alt="Commit-weighted languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdamAbuToamy&amp;theme=github_dark&amp;animation=load&amp;timeZone=Asia%2FJerusalem" width="48%" alt="Time-of-day activity"/>
+</p>
+</details>
 
 ---
 
 <h2 align="center">PROJECT DEEP DIVES</h2>
-<p align="center"><sub>Architecture, real captures, videos, limitations and source links</sub></p>
+<p align="center"><sub>Original real captures, architecture notes, working status, credits and source links remain below.</sub></p>
 
 <picture><source media="(max-width: 600px)" srcset="assets/wilo-section-mobile.svg"><img src="assets/wilo-section.svg" width="100%" alt="01 — Featured project: WILO"></picture>
 
