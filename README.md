@@ -6,11 +6,11 @@
 
 ## Selected Engineering Work
 
-<sub>Real demos and source links. Short previews are optional to keep this page fast.</sub>
+<sub>Real project previews · Source code · Engineering highlights</sub>
 
 <table>
 <tr>
-<td width="28%" valign="middle"><img src="assets/wilo-workspace.png" width="220" alt="WILO project preview"></td>
+<td width="28%" valign="middle"><img src="assets/wilo-preview.gif" width="220" alt="Animated WILO app walkthrough"></td>
 <td width="72%" valign="top">
 <sub><b>PRODUCT · LIVE</b></sub>
 <h3><a href="https://github.com/AdamAbuToamy/where-i-left-off">WILO</a></h3>
@@ -19,7 +19,7 @@ A multilingual workspace for projects, university courses and actionable checkpo
 <sub>React · TypeScript · Firebase</sub>
 <p><a href="https://github.com/AdamAbuToamy/where-i-left-off"><b>Explore repository</b></a> · <a href="https://where-i-left-off.web.app/">Try live app</a></p>
 
-<details><summary>Preview options</summary><a href="assets/wilo-preview.gif">Watch animated WILO preview</a></details>
+
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ Organizes multilingual inboxes with recoverable workflows and safety controls.
 </td>
 </tr>
 <tr>
-<td width="28%" valign="middle"><img src="assets/robot-arm.jpg" width="220" alt="Robot Arm Studio project preview"></td>
+<td width="28%" valign="middle"><img src="assets/robot-motion.gif" width="220" alt="Real accelerated robot arm motion"></td>
 <td width="72%" valign="top">
 <sub><b>ROBOTICS · HARDWARE</b></sub>
 <h3><a href="https://github.com/AdamAbuToamy/RobotArmStudio">Robot Arm Studio</a></h3>
@@ -45,11 +45,11 @@ Assembled 3D-printed robotic arm with an integrated browser controller.
 <sub>ESP32-S3 · PCA9685 · 3D printing</sub>
 <p><a href="https://github.com/AdamAbuToamy/RobotArmStudio"><b>Explore repository</b></a> · <a href="assets/robot-assembled.mp4">Watch real motion</a></p>
 
-<details><summary>Preview options</summary><a href="assets/robot-motion.gif">Watch animated Robot Arm Studio preview</a></details>
+
 </td>
 </tr>
 <tr>
-<td width="28%" valign="middle"><img src="assets/drone-build.jpg" width="220" alt="FPV Drone project preview"></td>
+<td width="28%" valign="middle"><img src="assets/drone-betaflight.gif" width="220" alt="Real drone Betaflight orientation animation"></td>
 <td width="72%" valign="top">
 <sub><b>HARDWARE · REPAIR</b></sub>
 <h3><a href="https://github.com/AdamAbuToamy/FPV-Drone">FPV Drone</a></h3>
@@ -58,11 +58,11 @@ A 5-inch quadcopter build covering diagnostics, electronics and repair.
 <sub>FPV · Electronics · Troubleshooting</sub>
 <p><a href="https://github.com/AdamAbuToamy/FPV-Drone"><b>Explore repository</b></a> · <a href="assets/drone-betaflight.mp4">Watch orientation test</a></p>
 
-<details><summary>Preview options</summary><a href="assets/drone-betaflight.gif">Watch animated FPV Drone preview</a></details>
+
 </td>
 </tr>
 <tr>
-<td width="28%" valign="middle"><img src="assets/repo-bars/deskpages.svg" width="220" alt="DeskPages project preview"></td>
+<td width="28%" valign="middle"><img src="assets/deskpages-tour.gif" width="220" alt="Animated actual DeskPages interface walkthrough"></td>
 <td width="72%" valign="top">
 <sub><b>DESKTOP · WINDOWS</b></sub>
 <h3><a href="https://github.com/AdamAbuToamy/DeskPages">DeskPages</a></h3>
@@ -109,9 +109,18 @@ Task and board backend focused on business rules, validation and clean layers.
 <p align="center"><img src="profile-3d-contrib/recent-16-weeks.svg" width="100%" alt="Animated 3D activity from the most recent 16 weeks of actual GitHub contributions"></p>
 <sub>Generated from real GitHub contributions. Activity metrics refresh using the repository workflow.</sub>
 
+## Languages & Technologies
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdamAbuToamy&amp;theme=github_dark" width="48%" alt="Actual GitHub repository language distribution"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdamAbuToamy&amp;theme=github_dark" width="48%" alt="Languages by commit activity"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,ts,js,cs,java,cpp,react,dotnet,fastapi,firebase,sqlite,linux,git,github,githubactions,vscode&amp;perline=8&amp;theme=dark" alt="Programming languages, frameworks and engineering tools"/>
+</p>
+<p align="center"><sub>Python · TypeScript · JavaScript · C# · Java · C++ · React · FastAPI · .NET · Firebase · SQLite · Linux</sub></p>
+
 <details>
-<summary><b>Statistics & technology stack</b></summary>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdamAbuToamy&amp;theme=github_dark" width="48%" alt="GitHub statistics"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdamAbuToamy&amp;theme=github_dark" width="48%" alt="Repository languages"></p>
-<p><b>Languages:</b> Python · TypeScript · JavaScript · C# · Java · C++</p>
-<p><b>Tools:</b> React · FastAPI · .NET · Firebase · SQLite · GitHub Actions · Linux</p>
+<summary><b>More GitHub statistics</b></summary>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdamAbuToamy&amp;theme=github_dark" width="70%" alt="GitHub statistics"/></p>
 </details>
