@@ -25,21 +25,6 @@
 <h3 align="center">✦ 3D CONTRIBUTION CITY ✦</h3>
 <p align="center"><sub>Recent 16 weeks · Real GitHub contribution data · Animated cyber 3D SVG · Daily refresh</sub></p>
 <p align="center"><img src="./profile-3d-contrib/recent-16-weeks.svg" width="100%" alt="Animated 3D contribution city generated from AdamAbuToamy's actual GitHub contribution calendar"/></p>
-<details>
-<summary><b>▣ Full-year activity and alternate 3D views</b></summary>
-<p align="center"><img src="./profile-3d-contrib/profile-green-animate.svg" width="98%" alt="Full-year animated GitHub 3D contributions"/></p>
-<p align="center"><img src="./profile-3d-contrib/profile-night-view.svg" width="98%" alt="Actual 3D contribution night view"/></p>
-<p><a href="https://github.com/AdamAbuToamy/AdamAbuToamy/actions/workflows/profile-3d.yml">3D generator workflow</a> · <a href="https://github.com/yoshi389111/github-profile-3d-contrib">Open-source 3D visualization generator</a></p>
-</details>
-
----
-
-<h2 align="center">⌁ FEATURED REPOSITORIES ⌁</h2>
-<p align="center"><sub>Seven projects · Consistent cyber-dark rows · Click a row for a short summary, then choose Open repository</sub></p>
-
-<details>
-<summary><strong>🗂️ &nbsp; WILO</strong> &nbsp; — &nbsp; Project and university workspace &nbsp; <sub>▸ SHOW DETAILS</sub></summary></summary>
-<br>
 <table>
 <tr>
 <td width="40%" align="center" valign="middle"><img src="assets/wilo-preview.gif" width="100%" alt="Animated real WILO application preview"></td>
@@ -53,11 +38,11 @@
 </td>
 </tr>
 </table>
+<details>
+<summary><strong>▸ MORE ABOUT WILO</strong> · project details and source links</summary>
+<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
 </details>
 
-<details>
-<summary><strong>✉️ &nbsp; PostMark AI</strong> &nbsp; — &nbsp; Multilingual email organization &nbsp; <sub>▸ SHOW DETAILS</sub></summary></summary>
-<br>
 <table>
 <tr>
 <td width="40%" align="center" valign="middle"><img src="assets/postmark-cleanup.png" width="100%" alt="Real PostMark email organizer interface screenshot"></td>
@@ -71,11 +56,11 @@
 </td>
 </tr>
 </table>
+<details>
+<summary><strong>▸ MORE ABOUT POSTMARK AI</strong> · project details and source links</summary>
+<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
 </details>
 
-<details>
-<summary><strong>🦾 &nbsp; Robot Arm Studio</strong> &nbsp; — &nbsp; Servo control and robotics &nbsp; <sub>▸ SHOW DETAILS</sub></summary></summary>
-<br>
 <table>
 <tr>
 <td width="40%" align="center" valign="middle"><img src="assets/robot-motion.gif" width="100%" alt="Actual assembled robot arm moving, accelerated footage"></td>
@@ -89,11 +74,11 @@
 </td>
 </tr>
 </table>
+<details>
+<summary><strong>▸ MORE ABOUT ROBOT ARM STUDIO</strong> · project details and source links</summary>
+<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
 </details>
 
-<details>
-<summary><strong>🚁 &nbsp; FPV Drone</strong> &nbsp; — &nbsp; Quadcopter build and diagnostics &nbsp; <sub>▸ SHOW DETAILS</sub></summary></summary>
-<br>
 <table>
 <tr>
 <td width="40%" align="center" valign="middle"><img src="assets/drone-betaflight.gif" width="100%" alt="Animated genuine Betaflight drone orientation test"></td>
@@ -103,15 +88,15 @@
 <p>A hands-on quadcopter project featuring assembly, configuration, diagnosis and electronics repair.</p>
 <p><sub>⚙ Betaflight · ESC · Soldering</sub></p>
 <p><a href="https://github.com/AdamAbuToamy/FPV-Drone"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-➜-a58bff?style=for-the-badge&amp;labelColor=0a1c2a" alt="Open FPV Drone repository"></a></p>
-<a href="https://github.com/AdamAbuToamy/AdamAbuToAmy/blob/main/assets/drone-betaflight.mp4">Full Video</a>
+<a href="https://github.com/AdamAbuToamy/AdamAbuToamy/blob/main/assets/drone-betaflight.mp4">Full Video</a>
 </td>
 </tr>
 </table>
+<details>
+<summary><strong>▸ MORE ABOUT FPV DRONE</strong> · project details and source links</summary>
+<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
 </details>
 
-<details>
-<summary><strong>🖥️ &nbsp; DeskPages</strong> &nbsp; — &nbsp; Windows desktop organization &nbsp; <sub>▸ SHOW DETAILS</sub></summary></summary>
-<br>
 <table>
 <tr>
 <td width="40%" align="center" valign="middle"><img src="assets/deskpages-tour.gif" width="100%" alt="Animated real DeskPages desktop organizer walkthrough"></td>
@@ -125,11 +110,11 @@
 </td>
 </tr>
 </table>
+<details>
+<summary><strong>▸ MORE ABOUT DESKPAGES</strong> · project details and source links</summary>
+<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
 </details>
 
-<details>
-<summary><strong>⚡ &nbsp; STOMP Emergency</strong> &nbsp; — &nbsp; Networking and concurrency &nbsp; <sub>▸ SHOW DETAILS</sub></summary></summary>
-<br>
 <table>
 <tr>
 <td width="40%" align="center" valign="middle"><img src="assets/repo-bars/stomp.svg" width="100%" alt="STOMP Emergency architecture icon; no recorded demo available"></td>
@@ -143,11 +128,11 @@
 </td>
 </tr>
 </table>
+<details>
+<summary><strong>▸ MORE ABOUT STOMP EMERGENCY</strong> · project details and source links</summary>
+<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
 </details>
 
-<details>
-<summary><strong>📋 &nbsp; Kanban Backend</strong> &nbsp; — &nbsp; C# backend and domain rules &nbsp; <sub>▸ SHOW DETAILS</sub></summary></summary>
-<br>
 <table>
 <tr>
 <td width="40%" align="center" valign="middle"><img src="assets/repo-bars/kanban.svg" width="100%" alt="Kanban Backend project icon; no recorded demo available"></td>
@@ -161,6 +146,9 @@
 </td>
 </tr>
 </table>
+<details>
+<summary><strong>▸ MORE ABOUT KANBAN BACKEND</strong> · project details and source links</summary>
+<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
 </details>
 
 <p align="center"><a href="https://github.com/AdamAbuToamy?tab=repositories"><img src="https://img.shields.io/badge/VIEW-ALL%20PUBLIC%20REPOSITORIES-40e4d0?style=for-the-badge&amp;labelColor=0b1826" alt="Open all public GitHub repositories"></a></p>
