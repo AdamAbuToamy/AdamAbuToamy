@@ -39,8 +39,8 @@
 </tr>
 </table>
 <details>
-<summary><strong>▸ MORE ABOUT WILO</strong> · project details and source links</summary>
-<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
+<summary><strong>▸ MORE ABOUT WILO</strong> · engineering notes</summary>
+<p>The live app organizes project links, checkpoints, study plans, cards, and weekly schedules in Arabic, Hebrew and English. Its engineering focus includes account-scoped storage, offline edits, conflict handling, and assistant proposals that require review before applying.</p>
 </details>
 
 <table>
@@ -57,8 +57,8 @@
 </tr>
 </table>
 <details>
-<summary><strong>▸ MORE ABOUT POSTMARK AI</strong> · project details and source links</summary>
-<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
+<summary><strong>▸ MORE ABOUT POSTMARK AI</strong> · engineering notes</summary>
+<p>A self-hosted project featuring provider-aware message classification, account isolation, durable background tasks, recovery paths and permissions for destructive actions. Work in progress: evaluation, packaging, reliability and security review remain unfinished; the application source is not yet publicly published.</p>
 </details>
 
 <table>
@@ -75,8 +75,8 @@
 </tr>
 </table>
 <details>
-<summary><strong>▸ MORE ABOUT ROBOT ARM STUDIO</strong> · project details and source links</summary>
-<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
+<summary><strong>▸ MORE ABOUT ROBOT ARM STUDIO</strong> · engineering notes</summary>
+<p>A physical 3D-printed arm with assembled servos, ESP32-S3, PCA9685, manual browser controls, calibration and saved movement sequences. The preview is genuine accelerated footage; mechanical refinement and measured performance validation are still ongoing.</p>
 </details>
 
 <table>
@@ -93,8 +93,8 @@
 </tr>
 </table>
 <details>
-<summary><strong>▸ MORE ABOUT FPV DRONE</strong> · project details and source links</summary>
-<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
+<summary><strong>▸ MORE ABOUT FPV DRONE</strong> · engineering notes</summary>
+<p>A real 5-inch quadcopter build involving wiring, soldering, Betaflight setup, ESC/motor fault isolation and repairs. The preview demonstrates a recorded orientation test rather than proven flight readiness.</p>
 </details>
 
 <table>
@@ -111,8 +111,8 @@
 </tr>
 </table>
 <details>
-<summary><strong>▸ MORE ABOUT DESKPAGES</strong> · project details and source links</summary>
-<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
+<summary><strong>▸ MORE ABOUT DESKPAGES</strong> · engineering notes</summary>
+<p>A Windows desktop organizer written with C#, .NET and WinForms. The project introduces multiple desktop icon pages without modifying original file locations. It remains in alpha; physical Windows/touchpad acceptance is being checked.</p>
 </details>
 
 <table>
@@ -129,8 +129,8 @@
 </tr>
 </table>
 <details>
-<summary><strong>▸ MORE ABOUT STOMP EMERGENCY</strong> · project details and source links</summary>
-<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
+<summary><strong>▸ MORE ABOUT STOMP EMERGENCY</strong> · engineering notes</summary>
+<p>A university messaging and concurrency exercise using a Java backend, multithreaded C++ client, TCP, subscriptions, Reactor and thread-per-client modes. Developed in collaboration with Ammar Mawassi; not an operational emergency-response service. No recorded product GIF is available.</p>
 </details>
 
 <table>
@@ -147,8 +147,8 @@
 </tr>
 </table>
 <details>
-<summary><strong>▸ MORE ABOUT KANBAN BACKEND</strong> · project details and source links</summary>
-<p>Explore the linked project above for the source, demos, implementation details, and current project status.</p>
+<summary><strong>▸ MORE ABOUT KANBAN BACKEND</strong> · engineering notes</summary>
+<p>A university C#/.NET backend for users, boards, columns and tasks, with layered business logic, column capacity constraints, input validation, state transitions, and backend tests. No recorded UI GIF is available.</p>
 </details>
 
 <p align="center"><a href="https://github.com/AdamAbuToamy?tab=repositories"><img src="https://img.shields.io/badge/VIEW-ALL%20PUBLIC%20REPOSITORIES-40e4d0?style=for-the-badge&amp;labelColor=0b1826" alt="Open all public GitHub repositories"></a></p>
