@@ -30,6 +30,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: AdamAbuToamy
+      - name: Focus 3D scene on the most recent sixteen weeks
+        run: python3 scripts/refresh_recent_3d.py
       - name: Publish generated graphics only
         run: |
           git config user.name "github-actions[bot]"
