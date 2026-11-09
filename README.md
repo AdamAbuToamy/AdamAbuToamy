@@ -22,8 +22,7 @@
 
 <details>
 <summary><b>▣ EXPAND · 3D CONTRIBUTION ACTIVITY</b></summary>
-<p align="center"><img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" width="98%" alt="Example of an animated 3D contribution calendar; illustration until personal generation succeeds"/></p>
-<p><sub>Illustrative animation above (NOT your statistics). Your own 3D graph is being configured using <a href="https://github.com/AdamAbuToamy/AdamAbuToamy/actions/workflows/profile-3d.yml">GitHub Actions</a>. The real graph will replace this example once the generated file is confirmed.</sub></p>
+<p><b>Authentic 3D contributions only.</b> The real animation will appear here after its first successful generation. <a href="https://github.com/AdamAbuToamy/AdamAbuToamy/actions/workflows/profile-3d.yml">View / manually run the 3D workflow</a>.</p>
 </details>
 
 ---
