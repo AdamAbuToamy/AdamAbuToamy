@@ -6,91 +6,110 @@
 
 ## Featured Projects
 
-<sub>Selected engineering work · Real demos and source · Click a project to inspect its implementation</sub>
+<sub>Real engineering work · One project at a time · Open galleries for additional screens and demos</sub>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<p align="center"><img src="assets/wilo-preview.gif" width="100%" alt="Real animated browser walkthrough of WILO"></p>
-<sub><b>LIVE WEB APP</b></sub>
-<h3><a href="https://github.com/AdamAbuToamy/where-i-left-off">WILO</a></h3>
-One workspace for projects, university planning and checkpoints.
-<p><sub><b>Offline edits · Account-scoped sync · Review-before-apply assistant</b></sub></p>
+<h3>01 / LIVE PRODUCT · WILO</h3>
+<table><tr>
+<td width="38%" valign="middle"><img src="assets/wilo-preview.gif" width="100%" alt="Real WILO animated walkthrough"></td>
+<td width="62%" valign="middle">
+<strong>WILO</strong>
+<p>Project and university workspace with checkpoints, offline edits and account-scoped synchronization.</p>
 <sub>React · TypeScript · Firebase</sub>
-<p><a href="https://github.com/AdamAbuToamy/where-i-left-off"><b>Source →</b></a> &nbsp;·&nbsp; <a href="https://where-i-left-off.web.app/">Launch app</a></p>
+<p><a href="https://github.com/AdamAbuToamy/where-i-left-off"><b>Explore source →</b></a> · <a href="https://where-i-left-off.web.app/">Try WILO</a></p>
 
 </td>
-<td width="50%" valign="top">
-<p align="center"><img src="https://raw.githubusercontent.com/AdamAbuToamy/PostMark-ai-email-agent/main/assets/inbox-live.png" width="100%" alt="Redacted real PostMark live inbox and AI processing screen"></p>
-<sub><b>AI EMAIL AGENT</b></sub>
-<h3><a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent">PostMark AI</a></h3>
-Multilingual email organization with recoverable automation.
-<p><sub><b>Account isolation · Provider routing · Durable jobs</b></sub></p>
+</tr></table>
+<details><summary><b>View WILO gallery (4)</b></summary>
+<table><tr><td width="25%" valign="top"><img src="assets/wilo-workspace.png" width="100%" alt="Workspace"><sub>Workspace</sub></td><td width="25%" valign="top"><img src="assets/wilo-create.png" width="100%" alt="Card creation"><sub>Card creation</sub></td><td width="25%" valign="top"><img src="assets/wilo-session.png" width="100%" alt="Work sessions"><sub>Work sessions</sub></td><td width="25%" valign="top"><img src="assets/wilo-mobile.png" width="100%" alt="Mobile view"><sub>Mobile view</sub></td></tr></table>
+</details>
+
+<h3>02 / AI EMAIL AUTOMATION · PostMark AI</h3>
+<table><tr>
+<td width="38%" valign="middle"><img src="https://raw.githubusercontent.com/AdamAbuToamy/PostMark-ai-email-agent/main/assets/inbox-live.png" width="100%" alt="Real PostMark inbox UI"></td>
+<td width="62%" valign="middle">
+<strong>PostMark AI</strong>
+<p>Multilingual inbox organization with provider-aware AI routing and recoverable background jobs.</p>
 <sub>Python · FastAPI · React · SQLite</sub>
-<p><a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><b>Source →</b></a> &nbsp;·&nbsp; <a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent#real-application-screenshots">Screenshots</a></p>
+<p><a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><b>Explore source →</b></a> · <a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent#real-application-screenshots">All screenshots</a></p>
+<sub>Work in progress.</sub>
+</td>
+</tr></table>
+<details><summary><b>View PostMark AI gallery (4)</b></summary>
+<table><tr><td width="25%" valign="top"><img src="https://raw.githubusercontent.com/AdamAbuToamy/PostMark-ai-email-agent/main/assets/navigation.png" width="100%" alt="Categories"><sub>Categories</sub></td><td width="25%" valign="top"><img src="https://raw.githubusercontent.com/AdamAbuToamy/PostMark-ai-email-agent/main/assets/ai-engine.png" width="100%" alt="AI routes"><sub>AI routes</sub></td><td width="25%" valign="top"><img src="https://raw.githubusercontent.com/AdamAbuToamy/PostMark-ai-email-agent/main/assets/cleanup.png" width="100%" alt="Cleanup"><sub>Cleanup</sub></td><td width="25%" valign="top"><img src="https://raw.githubusercontent.com/AdamAbuToamy/PostMark-ai-email-agent/main/assets/sync-history.png" width="100%" alt="Sync history"><sub>Sync history</sub></td></tr></table>
+</details>
+
+<h3>03 / ROBOTICS · Robot Arm Studio</h3>
+<table><tr>
+<td width="38%" valign="middle"><img src="assets/robot-motion.gif" width="100%" alt="Actual robot arm accelerated motion"></td>
+<td width="62%" valign="middle">
+<strong>Robot Arm Studio</strong>
+<p>Real assembled robotic arm with browser-based control, calibration and saved motion sequences.</p>
+<sub>ESP32-S3 · PCA9685 · Servo control</sub>
+<p><a href="https://github.com/AdamAbuToamy/RobotArmStudio"><b>Explore source →</b></a> · <a href="assets/robot-assembled.mp4">Full motion video</a></p>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p align="center"><img src="assets/robot-motion.gif" width="100%" alt="Real accelerated footage of the assembled robot arm moving"></p>
-<sub><b>ROBOTICS</b></sub>
-<h3><a href="https://github.com/AdamAbuToamy/RobotArmStudio">Robot Arm Studio</a></h3>
-Physical servo-driven arm with a browser motion controller.
-<p><sub><b>ESP32-S3 · Calibration · Saved motion sequences</b></sub></p>
-<sub>Python · ESP32-S3 · PCA9685</sub>
-<p><a href="https://github.com/AdamAbuToamy/RobotArmStudio"><b>Source →</b></a> &nbsp;·&nbsp; <a href="assets/robot-assembled.mp4">Full motion</a></p>
+</tr></table>
+<details><summary><b>View Robot Arm Studio gallery (3)</b></summary>
+<table><tr><td width="33%" valign="top"><img src="assets/robot-arm.jpg" width="100%" alt="Physical build"><sub>Physical build</sub></td><td width="33%" valign="top"><img src="assets/robot-motion.gif" width="100%" alt="Motion"><sub>Motion</sub></td></tr></table>
+</details>
+
+<h3>04 / HARDWARE · FPV Drone</h3>
+<table><tr>
+<td width="38%" valign="middle"><img src="assets/drone-betaflight.gif" width="100%" alt="Actual Betaflight orientation test animation"></td>
+<td width="62%" valign="middle">
+<strong>FPV Drone</strong>
+<p>Five-inch quadcopter build, fault investigation and real Betaflight orientation testing.</p>
+<sub>Betaflight · Wiring · ESC diagnostics</sub>
+<p><a href="https://github.com/AdamAbuToamy/FPV-Drone"><b>Explore source →</b></a> · <a href="assets/drone-betaflight.mp4">Full test video</a></p>
 
 </td>
-<td width="50%" valign="top">
-<p align="center"><img src="assets/drone-betaflight.gif" width="100%" alt="Real Betaflight orientation test with physical drone"></p>
-<sub><b>HARDWARE & DIAGNOSTICS</b></sub>
-<h3><a href="https://github.com/AdamAbuToamy/FPV-Drone">FPV Drone</a></h3>
-Build, configuration and fault diagnosis of a 5-inch quadcopter.
-<p><sub><b>ESC troubleshooting · Wiring · Electronics repair</b></sub></p>
-<sub>Betaflight · FPV · Electronics</sub>
-<p><a href="https://github.com/AdamAbuToamy/FPV-Drone"><b>Source →</b></a> &nbsp;·&nbsp; <a href="assets/drone-betaflight.mp4">Full test</a></p>
+</tr></table>
+<details><summary><b>View FPV Drone gallery (3)</b></summary>
+<table><tr><td width="33%" valign="top"><img src="assets/drone-build.jpg" width="100%" alt="Build photo"><sub>Build photo</sub></td><td width="33%" valign="top"><img src="assets/drone-betaflight.jpg" width="100%" alt="Betaflight frame"><sub>Betaflight frame</sub></td><td width="33%" valign="top"><img src="assets/drone-betaflight.gif" width="100%" alt="Orientation test"><sub>Orientation test</sub></td></tr></table>
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p align="center"><img src="assets/deskpages-concept.gif" width="100%" alt="AI-generated DeskPages concept animation, not a real app recording"></p>
-<sub><b>WINDOWS UTILITY · ALPHA</b></sub>
-<h3><a href="https://github.com/AdamAbuToamy/DeskPages">DeskPages</a></h3>
-Organize Windows desktop icons into separate pages without moving files.
-<p><sub><b>Native desktop integration · File-path preservation</b></sub></p>
+<h3>05 / WINDOWS DESKTOP · DeskPages</h3>
+<table><tr>
+<td width="38%" valign="middle"><img src="assets/deskpages-concept.gif" width="100%" alt="AI-generated DeskPages concept animation, not actual capture"></td>
+<td width="62%" valign="middle">
+<strong>DeskPages</strong>
+<p>Native desktop icon pages that preserve original file paths, with gesture and keyboard navigation.</p>
 <sub>C# · .NET · WinForms</sub>
-<p><a href="https://github.com/AdamAbuToamy/DeskPages"><b>Source →</b></a> &nbsp;·&nbsp; <a href="https://github.com/AdamAbuToamy/DeskPages/blob/main/media/DeskPages-tour-0.8.9-en.gif">Real UI tour</a></p>
-<sub><i>Concept animation (AI-generated); real interface recording linked.</i></sub>
+<p><a href="https://github.com/AdamAbuToamy/DeskPages"><b>Explore source →</b></a> · <a href="https://github.com/AdamAbuToamy/DeskPages/releases">Download alpha</a></p>
+<sub>Hero animation is an AI-generated concept; actual captured UI is in the gallery.</sub>
 </td>
-<td width="50%" valign="top">
-<p align="center"><img src="assets/repo-bars/stomp.svg" width="100%" alt="Network topology logo for STOMP Emergency"></p>
-<sub><b>NETWORKING & CONCURRENCY</b></sub>
-<h3><a href="https://github.com/AdamAbuToamy/stomp-emergency">STOMP Emergency</a></h3>
-Educational emergency-report service with concurrent clients.
-<p><sub><b>Java server · Multithreaded C++ · TCP/STOMP</b></sub></p>
-<sub>Java · C++ · Python tests</sub>
-<p><a href="https://github.com/AdamAbuToamy/stomp-emergency"><b>Source →</b></a> &nbsp;·&nbsp; <a href="https://github.com/AdamAbuToamy/stomp-emergency/actions">Test evidence</a></p>
-<sub><i>University collaboration with Ammar Mawassi.</i></sub>
+</tr></table>
+<details><summary><b>View DeskPages gallery (3)</b></summary>
+<table><tr><td width="33%" valign="top"><img src="assets/deskpages-settings.png" width="100%" alt="Actual settings"><sub>Actual settings</sub></td><td width="33%" valign="top"><img src="assets/deskpages-tour.gif" width="100%" alt="Actual UI tour"><sub>Actual UI tour</sub></td><td width="33%" valign="top"><img src="assets/deskpages-concept.gif" width="100%" alt="Concept film"><sub>Concept film</sub></td></tr></table>
+</details>
+
+<h3>06 / NETWORKED SYSTEMS · STOMP Emergency</h3>
+<table><tr>
+<td width="38%" valign="middle"><img src="assets/repo-bars/stomp.svg" width="100%" alt="STOMP Emergency network icon"></td>
+<td width="62%" valign="middle">
+<strong>STOMP Emergency</strong>
+<p>Educational concurrent messaging system with Reactor mode, subscriptions and fault-injection tests.</p>
+<sub>Java · C++ · TCP/STOMP</sub>
+<p><a href="https://github.com/AdamAbuToamy/stomp-emergency"><b>Explore source →</b></a> · <a href="https://github.com/AdamAbuToamy/stomp-emergency/actions">Tests</a></p>
+<sub>University collaboration with Ammar Mawassi.</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p align="center"><img src="assets/repo-bars/kanban.svg" width="100%" alt="Kanban backend icon"></p>
-<sub><b>BACKEND ENGINEERING</b></sub>
-<h3><a href="https://github.com/AdamAbuToamy/kanban-backend-csharp">Kanban Backend</a></h3>
-Task and board management built around domain rules.
-<p><sub><b>Validation · State transitions · Layered services</b></sub></p>
-<sub>C# · .NET</sub>
-<p><a href="https://github.com/AdamAbuToamy/kanban-backend-csharp"><b>Source →</b></a> &nbsp;·&nbsp; <a href="https://github.com/AdamAbuToamy/kanban-backend-csharp/tree/main/KanbanApp/Kanban_BackEnd/BusinessLayer">Business layer</a></p>
+</tr></table>
+
+
+<h3>07 / BACKEND · Kanban Backend</h3>
+<table><tr>
+<td width="38%" valign="middle"><img src="assets/repo-bars/kanban.svg" width="100%" alt="Kanban backend icon"></td>
+<td width="62%" valign="middle">
+<strong>Kanban Backend</strong>
+<p>Task-management backend implementing state transitions, column capacity rules and input validation.</p>
+<sub>C# · .NET · Domain rules</sub>
+<p><a href="https://github.com/AdamAbuToamy/kanban-backend-csharp"><b>Explore source →</b></a> · <a href="https://github.com/AdamAbuToamy/kanban-backend-csharp/tree/main/KanbanApp/Kanban_BackEnd/BusinessLayer">Business layer</a></p>
 
 </td>
-<td width="50%"></td>
-</tr>
-</table>
+</tr></table>
 
-<p align="center"><a href="https://github.com/AdamAbuToamy?tab=repositories"><b>Browse all repositories →</b></a></p>
+
+<p align="center"><a href="https://github.com/AdamAbuToamy?tab=repositories"><b>All repositories →</b></a></p>
 
 ## GitHub Activity
 
