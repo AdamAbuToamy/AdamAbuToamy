@@ -19,7 +19,7 @@ A multilingual workspace for projects, university courses and actionable checkpo
 <sub>React · TypeScript · Firebase</sub>
 <p><a href="https://github.com/AdamAbuToamy/where-i-left-off"><b>Explore repository</b></a> · <a href="https://where-i-left-off.web.app/">Try live app</a></p>
 
-<details><summary>Watch a short, real preview</summary><img src="assets/wilo-preview.gif" width="360" alt="Actual WILO preview"></details>
+<details><summary>Preview options</summary><a href="assets/wilo-preview.gif">Watch animated WILO preview</a></details>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ Assembled 3D-printed robotic arm with an integrated browser controller.
 <sub>ESP32-S3 · PCA9685 · 3D printing</sub>
 <p><a href="https://github.com/AdamAbuToamy/RobotArmStudio"><b>Explore repository</b></a> · <a href="assets/robot-assembled.mp4">Watch real motion</a></p>
 
-<details><summary>Watch a short, real preview</summary><img src="assets/robot-motion.gif" width="360" alt="Actual Robot Arm Studio preview"></details>
+<details><summary>Preview options</summary><a href="assets/robot-motion.gif">Watch animated Robot Arm Studio preview</a></details>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ A 5-inch quadcopter build covering diagnostics, electronics and repair.
 <sub>FPV · Electronics · Troubleshooting</sub>
 <p><a href="https://github.com/AdamAbuToamy/FPV-Drone"><b>Explore repository</b></a> · <a href="assets/drone-betaflight.mp4">Watch orientation test</a></p>
 
-<details><summary>Watch a short, real preview</summary><img src="assets/drone-betaflight.gif" width="360" alt="Actual FPV Drone preview"></details>
+<details><summary>Preview options</summary><a href="assets/drone-betaflight.gif">Watch animated FPV Drone preview</a></details>
 </td>
 </tr>
 <tr>
