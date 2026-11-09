@@ -2,7 +2,7 @@
 <picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.svg"><img src="assets/hero.svg" width="100%" alt="Adam Abu Toamy | Software Engineering, Systems, Robotics"></picture>
 
 <p align="center"><b>Software engineer building usable products, reliable systems and physical prototypes.</b></p>
-<p align="center"><a href="https://where-i-left-off.web.app/"><kbd>Live product: WILO</kbd></a> &nbsp;·&nbsp; <a href="https://github.com/AdamAbuToamy?tab=repositories"><kbd>All repositories</kbd></a></p>
+<p align="center"><a href="https://where-i-left-off.web.app/"><img alt="Live product: WILO — open link" src="https://img.shields.io/badge/LIVE%20PRODUCT%3A%20WILO-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a> &nbsp;·&nbsp; <a href="https://github.com/AdamAbuToamy?tab=repositories"><img alt="All repositories — open link" src="https://img.shields.io/badge/ALL%20REPOSITORIES-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a></p>
 
 ## Featured Projects
 
@@ -15,7 +15,7 @@
 <strong>WILO</strong>
 <p>Project and university workspace with checkpoints, offline edits and account-scoped synchronization.</p>
 <sub>React · TypeScript · Firebase</sub>
-<p><a href="https://github.com/AdamAbuToamy/where-i-left-off"><kbd><b>Explore source →</b></kbd></a> · <a href="https://where-i-left-off.web.app/"><kbd>Try WILO</kbd></a></p>
+<p><a href="https://github.com/AdamAbuToamy/where-i-left-off"><img alt="Explore source — open link" src="https://img.shields.io/badge/EXPLORE%20SOURCE-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a> · <a href="https://where-i-left-off.web.app/"><img alt="Try WILO — open link" src="https://img.shields.io/badge/TRY%20WILO-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a></p>
 
 </td>
 </tr></table>
@@ -30,7 +30,7 @@
 <strong>PostMark AI</strong>
 <p>Multilingual inbox organization with provider-aware AI routing and recoverable background jobs.</p>
 <sub>Python · FastAPI · React · SQLite</sub>
-<p><a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><kbd><b>Explore source →</b></kbd></a> · <a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent#real-application-screenshots"><kbd>All screenshots</kbd></a></p>
+<p><a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent"><img alt="Explore source — open link" src="https://img.shields.io/badge/EXPLORE%20SOURCE-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a> · <a href="https://github.com/AdamAbuToamy/PostMark-ai-email-agent#real-application-screenshots"><img alt="All screenshots — open link" src="https://img.shields.io/badge/ALL%20SCREENSHOTS-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a></p>
 <sub>Work in progress.</sub>
 </td>
 </tr></table>
@@ -45,7 +45,7 @@
 <strong>Robot Arm Studio</strong>
 <p>Real assembled robotic arm with browser-based control, calibration and saved motion sequences.</p>
 <sub>ESP32-S3 · PCA9685 · Servo control</sub>
-<p><a href="https://github.com/AdamAbuToamy/RobotArmStudio"><kbd><b>Explore source →</b></kbd></a> · <a href="assets/robot-assembled.mp4"><kbd>Full motion video</kbd></a></p>
+<p><a href="https://github.com/AdamAbuToamy/RobotArmStudio"><img alt="Explore source — open link" src="https://img.shields.io/badge/EXPLORE%20SOURCE-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a> · <a href="assets/robot-assembled.mp4"><img alt="Full motion video — open link" src="https://img.shields.io/badge/FULL%20MOTION%20VIDEO-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a></p>
 
 </td>
 </tr></table>
@@ -60,7 +60,7 @@
 <strong>FPV Drone</strong>
 <p>Five-inch quadcopter build, fault investigation and real Betaflight orientation testing.</p>
 <sub>Betaflight · Wiring · ESC diagnostics</sub>
-<p><a href="https://github.com/AdamAbuToamy/FPV-Drone"><kbd><b>Explore source →</b></kbd></a> · <a href="assets/drone-betaflight.mp4"><kbd>Full test video</kbd></a></p>
+<p><a href="https://github.com/AdamAbuToamy/FPV-Drone"><img alt="Explore source — open link" src="https://img.shields.io/badge/EXPLORE%20SOURCE-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a> · <a href="assets/drone-betaflight.mp4"><img alt="Full test video — open link" src="https://img.shields.io/badge/FULL%20TEST%20VIDEO-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a></p>
 
 </td>
 </tr></table>
@@ -75,7 +75,7 @@
 <strong>DeskPages</strong>
 <p>Native desktop icon pages that preserve original file paths, with gesture and keyboard navigation.</p>
 <sub>C# · .NET · WinForms</sub>
-<p><a href="https://github.com/AdamAbuToamy/DeskPages"><kbd><b>Explore source →</b></kbd></a> · <a href="https://github.com/AdamAbuToamy/DeskPages/releases"><kbd>Download alpha</kbd></a></p>
+<p><a href="https://github.com/AdamAbuToamy/DeskPages"><img alt="Explore source — open link" src="https://img.shields.io/badge/EXPLORE%20SOURCE-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a> · <a href="https://github.com/AdamAbuToamy/DeskPages/releases"><img alt="Download alpha — open link" src="https://img.shields.io/badge/DOWNLOAD%20ALPHA-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a></p>
 <sub>Hero animation is an AI-generated concept; actual captured UI is in the gallery.</sub>
 </td>
 </tr></table>
@@ -90,7 +90,7 @@
 <strong>STOMP Emergency</strong>
 <p>Educational concurrent messaging system with Reactor mode, subscriptions and fault-injection tests.</p>
 <sub>Java · C++ · TCP/STOMP</sub>
-<p><a href="https://github.com/AdamAbuToamy/stomp-emergency"><kbd><b>Explore source →</b></kbd></a> · <a href="https://github.com/AdamAbuToamy/stomp-emergency/actions"><kbd>Tests</kbd></a></p>
+<p><a href="https://github.com/AdamAbuToamy/stomp-emergency"><img alt="Explore source — open link" src="https://img.shields.io/badge/EXPLORE%20SOURCE-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a> · <a href="https://github.com/AdamAbuToamy/stomp-emergency/actions"><img alt="Tests — open link" src="https://img.shields.io/badge/TESTS-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a></p>
 <sub>University collaboration with Ammar Mawassi.</sub>
 </td>
 </tr></table>
@@ -103,13 +103,13 @@
 <strong>Kanban Backend</strong>
 <p>Task-management backend implementing state transitions, column capacity rules and input validation.</p>
 <sub>C# · .NET · Domain rules</sub>
-<p><a href="https://github.com/AdamAbuToamy/kanban-backend-csharp"><kbd><b>Explore source →</b></kbd></a> · <a href="https://github.com/AdamAbuToamy/kanban-backend-csharp/tree/main/KanbanApp/Kanban_BackEnd/BusinessLayer"><kbd>Business layer</kbd></a></p>
+<p><a href="https://github.com/AdamAbuToamy/kanban-backend-csharp"><img alt="Explore source — open link" src="https://img.shields.io/badge/EXPLORE%20SOURCE-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a> · <a href="https://github.com/AdamAbuToamy/kanban-backend-csharp/tree/main/KanbanApp/Kanban_BackEnd/BusinessLayer"><img alt="Business layer — open link" src="https://img.shields.io/badge/BUSINESS%20LAYER-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a></p>
 
 </td>
 </tr></table>
 
 
-<p align="center"><a href="https://github.com/AdamAbuToamy?tab=repositories"><kbd><b>All repositories →</b></kbd></a></p>
+<p align="center"><a href="https://github.com/AdamAbuToamy?tab=repositories"><img alt="All repositories — open link" src="https://img.shields.io/badge/ALL%20REPOSITORIES-FF902E?style=for-the-badge&amp;labelColor=171D2C&amp;logoColor=ffffff"></a></p>
 
 ## GitHub Activity
 
