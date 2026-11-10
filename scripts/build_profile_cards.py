@@ -92,3 +92,55 @@ compose("robot-card","Robot Arm Studio","03 / ROBOTICS","Physical robotic-arm pr
 compose("drone-card","FPV Drone","04 / DRONE ENGINEERING","FPV build & flight diagnostics",
         ["Betaflight","Hardware","Testing"],["Original orientation test","Controller integration & build"],
         "assets/drone-betaflight.gif")
+
+
+def build_tech_animation():
+    categories=[
+      ("LANGUAGES",["Python","TypeScript","JavaScript","C#","Java","C++"]),
+      ("FRAMEWORKS & APIs",["React","FastAPI",".NET","REST APIs"]),
+      ("DATA & DEV TOOLS",["Firebase","SQLite","Git","GitHub Actions","Linux / WSL","VS Code"])]
+    frames=[]
+    for step in range(18):
+        im=Image.new("RGB",(1100,400),(10,19,33))
+        d=ImageDraw.Draw(im)
+        rounded(d,(2,2,1097,397),(11,21,36),24,ORANGE,2)
+        d.text((42,26),"LANGUAGES & TECHNOLOGIES",font=font(33,True),fill=WHITE)
+        d.text((43,74),"Organized by what I use in real projects",font=font(19),fill=MUTED)
+        counter=0
+        for j,(heading,items) in enumerate(categories):
+            y=116+j*94
+            d.text((43,y),heading,font=font(19,True),fill=ORANGE)
+            x=43
+            for item in items:
+                w=max(104,len(item)*12+29)
+                shown=counter<step
+                rounded(d,(x,y+32,x+w,y+71),(24,47,71) if shown else (14,29,44),13,(60,111,150) if shown else (31,56,76))
+                d.text((x+13,y+43),item,font=font(17,True),fill=WHITE if shown else (66,92,115))
+                x+=w+10
+                counter+=1
+        frames.append(im)
+    frames[0].save(OUT/"tech-stack.gif",save_all=True,append_images=frames[1:],duration=[190]*17+[1100],loop=0,optimize=True)
+    print("tech-stack", (OUT/"tech-stack.gif").stat().st_size)
+
+def build_contributions():
+    # Source is the real data-derived GitHub contributions graphic in this repository.
+    import cairosvg
+    svg=(ROOT/"profile-3d-contrib/recent-16-weeks.svg").read_bytes()
+    png=cairosvg.svg2png(bytestring=svg)
+    src=Image.open(io.BytesIO(png)).convert("RGB")
+    src.thumbnail((1040,440),Image.Resampling.LANCZOS)
+    frames=[]
+    for i in range(14):
+        im=Image.new("RGB",(1100,495),(9,18,31))
+        d=ImageDraw.Draw(im)
+        rounded(d,(2,2,1097,492),(10,20,34),24,ORANGE,2)
+        d.text((35,22),"GITHUB CONTRIBUTIONS / LAST 16 WEEKS",font=font(24,True),fill=WHITE)
+        extent=round(src.width*(i+1)/14)
+        strip=src.crop((0,0,extent,src.height))
+        im.paste(strip,(30,65))
+        frames.append(im)
+    frames[0].save(OUT/"contributions.gif",save_all=True,append_images=frames[1:],duration=[150]*13+[1100],loop=0,optimize=True)
+    print("contributions", (OUT/"contributions.gif").stat().st_size)
+
+build_tech_animation()
+build_contributions()
